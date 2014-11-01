@@ -52,3 +52,12 @@ $RECYCLE.BIN/
 *.msi
 *.msm
 *.msp
+
+# =========================
+# Media files
+*.jpg
+*.png
+*.bmp
+*.mov
+*.mp4
+*.mpg
