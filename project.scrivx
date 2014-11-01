@@ -78,7 +78,7 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>1,1</TextSelection>
+                                <TextSelection>120,120</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
@@ -335,11 +335,11 @@
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                             <Children>
-                                <BinderItem ID="36" Created="2013-08-13 13:41:38 +0000" Modified="2013-08-13 13:49:32 +0000" Type="Image">
-                                    <Title>Misty_Day_In_The_Forest_by_Nitrok</Title>
+                                <BinderItem ID="17" Created="2014-11-01 19:25:00 +0000" Modified="2014-11-01 14:32:39 +0000" Type="Image">
+                                    <Title>PDVD_035</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
-                                        <FileExtension>jpg</FileExtension>
+                                        <FileExtension>bmp</FileExtension>
                                         <NotesTextSelection>0,0</NotesTextSelection>
                                         <ShowSynopsisImage>Yes</ShowSynopsisImage>
                                     </MetaData>
@@ -347,11 +347,11 @@
                                         <ImageScalesProportionally>Yes</ImageScalesProportionally>
                                     </MediaSettings>
                                 </BinderItem>
-                                <BinderItem ID="85" Created="2013-08-13 14:07:08 +0000" Modified="2013-08-13 14:07:08 +0000" Type="Image">
-                                    <Title>PDVD_035</Title>
+                                <BinderItem ID="18" Created="2014-11-01 19:24:56 +0000" Modified="2014-11-01 14:33:05 +0000" Type="Image">
+                                    <Title>Misty_Day_In_The_Forest_by_Nitrok</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
-                                        <FileExtension>bmp</FileExtension>
+                                        <FileExtension>jpg</FileExtension>
                                         <NotesTextSelection>0,0</NotesTextSelection>
                                         <ShowSynopsisImage>Yes</ShowSynopsisImage>
                                     </MetaData>
@@ -371,7 +371,19 @@
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                             <Children>
-                                <BinderItem ID="39" Created="2014-11-01 15:11:53 +0000" Modified="2014-11-01 15:11:53 +0000" Type="Image">
+                                <BinderItem ID="19" Created="2014-11-01 19:25:01 +0000" Modified="2009-08-31 09:07:43 +0000" Type="Image">
+                                    <Title>DSC01602</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>jpg</FileExtension>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                    </MetaData>
+                                    <MediaSettings>
+                                        <ImageScalesProportionally>Yes</ImageScalesProportionally>
+                                    </MediaSettings>
+                                </BinderItem>
+                                <BinderItem ID="37" Created="2014-11-01 19:25:02 +0000" Modified="2014-11-01 15:11:53 +0000" Type="Image">
                                     <Title>fantasy_helmet_brass_scales_b</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -383,7 +395,7 @@
                                         <ImageScalesProportionally>Yes</ImageScalesProportionally>
                                     </MediaSettings>
                                 </BinderItem>
-                                <BinderItem ID="40" Created="2014-11-01 15:13:04 +0000" Modified="2014-11-01 15:13:05 +0000" Type="Image">
+                                <BinderItem ID="35" Created="2014-11-01 19:25:03 +0000" Modified="2014-11-01 15:13:05 +0000" Type="Image">
                                     <Title>steel-shirt-front</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -395,7 +407,7 @@
                                         <ImageScalesProportionally>Yes</ImageScalesProportionally>
                                     </MediaSettings>
                                 </BinderItem>
-                                <BinderItem ID="41" Created="2014-11-01 15:13:27 +0000" Modified="2014-11-01 15:13:27 +0000" Type="Image">
+                                <BinderItem ID="33" Created="2014-11-01 19:25:04 +0000" Modified="2014-11-01 15:13:27 +0000" Type="Image">
                                     <Title>DSCF8921a</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -458,6 +470,80 @@
                 <IncludeInCompile>Yes</IncludeInCompile>
                 <NotesTextSelection>0,0</NotesTextSelection>
             </MetaData>
+            <Children>
+                <BinderItem ID="36" Created="2013-08-13 13:41:38 +0000" Modified="2013-08-13 13:49:32 +0000" Type="Image">
+                    <Title>Misty_Day_In_The_Forest_by_Nitrok</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>jpg</FileExtension>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                    </MetaData>
+                    <MediaSettings>
+                        <ImageScalesProportionally>Yes</ImageScalesProportionally>
+                    </MediaSettings>
+                </BinderItem>
+                <BinderItem ID="85" Created="2013-08-13 14:07:08 +0000" Modified="2013-08-13 14:07:08 +0000" Type="Image">
+                    <Title>PDVD_035</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>bmp</FileExtension>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                    </MetaData>
+                    <MediaSettings>
+                        <ImageScalesProportionally>Yes</ImageScalesProportionally>
+                    </MediaSettings>
+                </BinderItem>
+                <BinderItem ID="39" Created="2014-11-01 15:11:53 +0000" Modified="2014-11-01 15:11:53 +0000" Type="Image">
+                    <Title>fantasy_helmet_brass_scales_b</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>jpg</FileExtension>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                    </MetaData>
+                    <MediaSettings>
+                        <ImageScalesProportionally>Yes</ImageScalesProportionally>
+                    </MediaSettings>
+                </BinderItem>
+                <BinderItem ID="40" Created="2014-11-01 15:13:04 +0000" Modified="2014-11-01 15:13:05 +0000" Type="Image">
+                    <Title>steel-shirt-front</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>jpg</FileExtension>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                    </MetaData>
+                    <MediaSettings>
+                        <ImageScalesProportionally>Yes</ImageScalesProportionally>
+                    </MediaSettings>
+                </BinderItem>
+                <BinderItem ID="41" Created="2014-11-01 15:13:27 +0000" Modified="2014-11-01 15:13:27 +0000" Type="Image">
+                    <Title>DSCF8921a</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>jpg</FileExtension>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                    </MetaData>
+                    <MediaSettings>
+                        <ImageScalesProportionally>Yes</ImageScalesProportionally>
+                    </MediaSettings>
+                </BinderItem>
+                <BinderItem ID="14" Created="2014-03-16 15:54:58 +0000" Modified="2009-08-31 09:07:43 +0000" Type="Image">
+                    <Title>DSC01602</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>jpg</FileExtension>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                    </MetaData>
+                    <MediaSettings>
+                        <ImageScalesProportionally>Yes</ImageScalesProportionally>
+                    </MediaSettings>
+                </BinderItem>
+            </Children>
         </BinderItem>
     </Binder>
     <Collections>
