@@ -71,14 +71,14 @@
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="42" Created="2014-11-01 15:57:09 +0000" Modified="2014-11-02 12:02:45 +0000" Type="Text">
+                        <BinderItem ID="42" Created="2014-11-01 15:57:09 +0000" Modified="2014-11-02 17:28:30 +0000" Type="Text">
                             <Title>Buraco, Yen</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>3862,3862</TextSelection>
+                                <TextSelection>6699,6699</TextSelection>
                                 <Target Type="Words">1500</Target>
                             </TextSettings>
                         </BinderItem>
