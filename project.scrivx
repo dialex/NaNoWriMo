@@ -71,28 +71,15 @@
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="42" Created="2014-11-01 15:57:09 +0000" Modified="2014-11-02 17:28:30 +0000" Type="Text">
+                        <BinderItem ID="42" Created="2014-11-01 15:57:09 +0000" Modified="2014-11-02 19:44:13 +0000" Type="Text">
                             <Title>Buraco, Yen</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>6699,6699</TextSelection>
-                                <Target Type="Words">1500</Target>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem ID="21" Created="2013-08-09 09:48:32 +0000" Modified="2014-11-01 09:15:06 +0000" Type="Text">
-                            <Title>Chat Rod+Ric: nuvens</Title>
-                            <MetaData>
-                                <LabelID>4</LabelID>
-                                <StatusID>5</StatusID>
-                                <IncludeInCompile>No</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>1312,1312</TextSelection>
-                                <Target Type="Words">0</Target>
+                                <TextSelection>11554,11554</TextSelection>
+                                <Target Type="Words">3400</Target>
                             </TextSettings>
                         </BinderItem>
                     </Children>
@@ -155,6 +142,19 @@
                 <Target Type="Words">0</Target>
             </TextSettings>
             <Children>
+                <BinderItem ID="21" Created="2013-08-09 09:48:32 +0000" Modified="2014-11-01 09:15:06 +0000" Type="Text">
+                    <Title>Chat Rod+Ric: nuvens</Title>
+                    <MetaData>
+                        <LabelID>4</LabelID>
+                        <StatusID>5</StatusID>
+                        <IncludeInCompile>No</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>1312,1312</TextSelection>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
                 <BinderItem ID="24" Created="2013-08-09 10:59:31 +0000" Modified="2013-08-11 17:07:14 +0000" Type="Text">
                     <Title>Origem da Magia</Title>
                     <MetaData>
