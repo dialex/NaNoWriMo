@@ -71,15 +71,15 @@
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="42" Created="2014-11-01 15:57:09 +0000" Modified="2014-11-01 15:59:25 +0000" Type="Text">
+                        <BinderItem ID="42" Created="2014-11-01 15:57:09 +0000" Modified="2014-11-02 12:02:45 +0000" Type="Text">
                             <Title>Buraco, Yen</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>120,120</TextSelection>
-                                <Target Type="Words">0</Target>
+                                <TextSelection>3862,3862</TextSelection>
+                                <Target Type="Words">1500</Target>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem ID="21" Created="2013-08-09 09:48:32 +0000" Modified="2014-11-01 09:15:06 +0000" Type="Text">
@@ -409,6 +409,18 @@
                                 </BinderItem>
                                 <BinderItem ID="33" Created="2014-11-01 19:25:04 +0000" Modified="2014-11-01 15:13:27 +0000" Type="Image">
                                     <Title>DSCF8921a</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>jpg</FileExtension>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                    </MetaData>
+                                    <MediaSettings>
+                                        <ImageScalesProportionally>Yes</ImageScalesProportionally>
+                                    </MediaSettings>
+                                </BinderItem>
+                                <BinderItem ID="43" Created="2014-11-02 10:45:31 +0000" Modified="2013-04-23 09:53:41 +0000" Type="Image">
+                                    <Title>2385891927_2aa2aa7136_o</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                         <FileExtension>jpg</FileExtension>
