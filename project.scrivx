@@ -71,14 +71,14 @@
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="42" Created="2014-11-01 15:57:09 +0000" Modified="2014-11-02 19:44:13 +0000" Type="Text">
+                        <BinderItem ID="42" Created="2014-11-01 15:57:09 +0000" Modified="2014-11-03 20:44:04 +0000" Type="Text">
                             <Title>Buraco, Yen</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>11554,11554</TextSelection>
+                                <TextSelection>14408,14408</TextSelection>
                                 <Target Type="Words">3400</Target>
                             </TextSettings>
                         </BinderItem>
@@ -94,12 +94,12 @@
                         <Target Type="Words">0</Target>
                     </TextSettings>
                     <Children>
-                        <BinderItem ID="22" Created="2013-08-07 19:29:48 +0000" Modified="2014-11-01 09:15:08 +0000" Type="Text">
-                            <Title>2 Texto</Title>
+                        <BinderItem ID="45" Created="2014-11-03 20:48:41 +0000" Modified="2014-11-03 20:48:41 +0000" Type="Text">
+                            <Title>EM BRANCO</Title>
                             <MetaData>
                                 <LabelID>2</LabelID>
                                 <StatusID>2</StatusID>
-                                <IncludeInCompile>No</IncludeInCompile>
+                                <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
@@ -303,6 +303,18 @@
                     </MetaData>
                     <TextSettings>
                         <TextSelection>2238,2238</TextSelection>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="44" Created="2014-11-03 20:48:20 +0000" Modified="2014-11-03 20:48:33 +0000" Type="Text">
+                    <Title>EM BRANCO</Title>
+                    <MetaData>
+                        <LabelID>2</LabelID>
+                        <StatusID>2</StatusID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
                         <Target Type="Words">0</Target>
                     </TextSettings>
                 </BinderItem>
@@ -554,6 +566,18 @@
                     <MediaSettings>
                         <ImageScalesProportionally>Yes</ImageScalesProportionally>
                     </MediaSettings>
+                </BinderItem>
+                <BinderItem ID="22" Created="2013-08-07 19:29:48 +0000" Modified="2014-11-01 09:15:08 +0000" Type="Text">
+                    <Title>2 Texto</Title>
+                    <MetaData>
+                        <LabelID>2</LabelID>
+                        <StatusID>2</StatusID>
+                        <IncludeInCompile>No</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
                 </BinderItem>
             </Children>
         </BinderItem>
