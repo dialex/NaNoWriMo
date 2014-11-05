@@ -48,17 +48,17 @@
                         <Target Type="Words">0</Target>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="31" Created="2013-08-11 17:00:57 +0000" Modified="2014-11-01 11:57:52 +0000" Type="Folder">
+                <BinderItem ID="31" Created="2013-08-11 17:00:57 +0000" Modified="2014-11-04 22:02:01 +0000" Type="Folder">
                     <Title>1</Title>
                     <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <IncludeInCompile>No</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
                         <Target Type="Words">0</Target>
                     </TextSettings>
                     <Children>
-                        <BinderItem ID="15" Created="2012-07-17 19:25:11 +0000" Modified="2014-11-01 15:58:34 +0000" Type="Text">
+                        <BinderItem ID="15" Created="2012-07-17 19:25:11 +0000" Modified="2014-11-04 19:35:46 +0000" Type="Text">
                             <Title>Acordar, Luca, Tio, Ricardo</Title>
                             <MetaData>
                                 <LabelID>2</LabelID>
@@ -71,20 +71,22 @@
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="42" Created="2014-11-01 15:57:09 +0000" Modified="2014-11-03 20:44:04 +0000" Type="Text">
+                        <BinderItem ID="42" Created="2014-11-01 15:57:09 +0000" Modified="2014-11-04 21:59:50 +0000" Type="Text">
                             <Title>Buraco, Yen</Title>
                             <MetaData>
+                                <LabelID>2</LabelID>
+                                <StatusID>2</StatusID>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>14408,14408</TextSelection>
-                                <Target Type="Words">3400</Target>
+                                <TextSelection>14996,14996</TextSelection>
+                                <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem ID="25" Created="2010-10-22 19:27:32 +0000" Modified="2014-11-01 09:15:09 +0000" Type="Folder">
+                <BinderItem ID="25" Created="2010-10-22 19:27:32 +0000" Modified="2014-11-04 22:02:04 +0000" Type="Folder">
                     <Title>2</Title>
                     <MetaData>
                         <IncludeInCompile>No</IncludeInCompile>
@@ -94,12 +96,26 @@
                         <Target Type="Words">0</Target>
                     </TextSettings>
                     <Children>
-                        <BinderItem ID="45" Created="2014-11-03 20:48:41 +0000" Modified="2014-11-03 20:48:41 +0000" Type="Text">
+                        <BinderItem ID="45" Created="2014-11-03 20:48:41 +0000" Modified="2014-11-04 21:59:10 +0000" Type="Text">
+                            <Title>Pesadelo</Title>
+                            <MetaData>
+                                <LabelID>2</LabelID>
+                                <StatusID>2</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>1076,1076</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="46" Created="2014-11-04 21:59:13 +0000" Modified="2014-11-04 22:02:13 +0000" Type="Text">
                             <Title>EM BRANCO</Title>
                             <MetaData>
                                 <LabelID>2</LabelID>
                                 <StatusID>2</StatusID>
                                 <IncludeInCompile>Yes</IncludeInCompile>
+                                <BreakBeforeParagraph>Yes</BreakBeforeParagraph>
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
