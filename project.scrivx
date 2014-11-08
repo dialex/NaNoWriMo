@@ -71,7 +71,7 @@
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="42" Created="2014-11-01 15:57:09 +0000" Modified="2014-11-05 20:24:58 +0000" Type="Text">
+                        <BinderItem ID="42" Created="2014-11-01 15:57:09 +0000" Modified="2014-11-08 11:09:13 +0000" Type="Text">
                             <Title>Buraco, Yen</Title>
                             <MetaData>
                                 <LabelID>2</LabelID>
@@ -80,7 +80,7 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>11283,11283</TextSelection>
+                                <TextSelection>10128,10128</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
@@ -119,20 +119,21 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>10070,10070</TextSelection>
+                                <TextSelection>10071,10071</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="47" Created="2014-11-05 20:05:03 +0000" Modified="2014-11-07 22:34:24 +0000" Type="Text">
+                        <BinderItem ID="47" Created="2014-11-05 20:05:03 +0000" Modified="2014-11-08 11:44:35 +0000" Type="Text">
                             <Title>Vera, Carlos Mesa,</Title>
                             <MetaData>
                                 <LabelID>2</LabelID>
                                 <StatusID>2</StatusID>
                                 <IncludeInCompile>Yes</IncludeInCompile>
+                                <BreakBeforeParagraph>Yes</BreakBeforeParagraph>
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>293,293</TextSelection>
+                                <TextSelection>14282,14282</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
