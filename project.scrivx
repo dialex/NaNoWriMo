@@ -80,7 +80,7 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>10128,10128</TextSelection>
+                                <TextSelection>8931,8931</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
@@ -105,7 +105,7 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>1076,1076</TextSelection>
+                                <TextSelection>263,263</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
@@ -123,7 +123,7 @@
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="47" Created="2014-11-05 20:05:03 +0000" Modified="2014-11-12 20:41:03 +0000" Type="Text">
+                        <BinderItem ID="47" Created="2014-11-05 20:05:03 +0000" Modified="2014-11-12 22:02:09 +0000" Type="Text">
                             <Title>Vera, Carlos Mesa, Partida</Title>
                             <MetaData>
                                 <LabelID>2</LabelID>
@@ -133,12 +133,12 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>16713,16713</TextSelection>
+                                <TextSelection>19089,19089</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="61" Created="2014-11-12 20:41:09 +0000" Modified="2014-11-12 20:41:29 +0000" Type="Text">
-                            <Title>Talho, Despedida Vera-Ric</Title>
+                        <BinderItem ID="61" Created="2014-11-12 20:41:09 +0000" Modified="2014-11-12 22:59:28 +0000" Type="Text">
+                            <Title>Talho</Title>
                             <MetaData>
                                 <LabelID>2</LabelID>
                                 <StatusID>2</StatusID>
@@ -146,6 +146,20 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
+                                <TextSelection>3239,3239</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="62" Created="2014-11-12 22:59:33 +0000" Modified="2014-11-12 23:03:33 +0000" Type="Text">
+                            <Title>Viagem Vera-Ric, Rod-Mae</Title>
+                            <MetaData>
+                                <LabelID>2</LabelID>
+                                <StatusID>2</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>191,191</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
