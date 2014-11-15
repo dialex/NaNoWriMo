@@ -177,8 +177,8 @@
                         <Target Type="Words">0</Target>
                     </TextSettings>
                     <Children>
-                        <BinderItem ID="65" Created="2014-11-14 23:02:08 +0000" Modified="2014-11-14 23:02:08 +0000" Type="Text">
-                            <Title>EM BRANCO</Title>
+                        <BinderItem ID="65" Created="2014-11-14 23:02:08 +0000" Modified="2014-11-15 19:55:32 +0000" Type="Text">
+                            <Title>Icarian-Ixilak: Edificação torres</Title>
                             <MetaData>
                                 <LabelID>2</LabelID>
                                 <StatusID>2</StatusID>
@@ -186,6 +186,7 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
+                                <TextSelection>4697,4697</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
@@ -650,6 +651,30 @@
                                 </BinderItem>
                                 <BinderItem ID="63" Created="2014-11-12 22:11:04 +0000" Modified="2014-11-12 22:11:04 +0000" Type="Image">
                                     <Title>late-medieval-butcher</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>jpg</FileExtension>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                    </MetaData>
+                                    <MediaSettings>
+                                        <ImageScalesProportionally>Yes</ImageScalesProportionally>
+                                    </MediaSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                        <BinderItem ID="66" Created="2014-11-15 17:59:27 +0000" Modified="2014-11-15 17:59:28 +0000" Type="Folder">
+                            <Title>3</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem ID="67" Created="2014-03-16 15:54:42 +0000" Modified="2003-06-23 16:47:12 +0000" Type="Image">
+                                    <Title>hiero</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                         <FileExtension>jpg</FileExtension>
