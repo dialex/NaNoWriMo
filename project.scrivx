@@ -167,23 +167,22 @@
                         </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem ID="64" Created="2014-11-14 23:02:02 +0000" Modified="2014-11-14 23:02:04 +0000" Type="Folder">
+                <BinderItem ID="64" Created="2014-11-14 23:02:02 +0000" Modified="2014-11-16 21:08:47 +0000" Type="Folder">
                     <Title>3</Title>
                     <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <IncludeInCompile>No</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
                         <Target Type="Words">0</Target>
                     </TextSettings>
                     <Children>
-                        <BinderItem ID="65" Created="2014-11-14 23:02:08 +0000" Modified="2014-11-15 19:57:47 +0000" Type="Text">
+                        <BinderItem ID="65" Created="2014-11-14 23:02:08 +0000" Modified="2014-11-16 21:08:55 +0000" Type="Text">
                             <Title>Icarian-Ixilak: Edificação torres</Title>
                             <MetaData>
                                 <LabelID>2</LabelID>
                                 <StatusID>2</StatusID>
                                 <IncludeInCompile>Yes</IncludeInCompile>
-                                <BreakBeforeParagraph>Yes</BreakBeforeParagraph>
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
@@ -193,17 +192,17 @@
                         </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem ID="68" Created="2014-11-16 10:53:41 +0000" Modified="2014-11-16 10:53:43 +0000" Type="Folder">
+                <BinderItem ID="68" Created="2014-11-16 10:53:41 +0000" Modified="2014-11-16 21:08:48 +0000" Type="Folder">
                     <Title>4</Title>
                     <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <IncludeInCompile>No</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
                         <Target Type="Words">0</Target>
                     </TextSettings>
                     <Children>
-                        <BinderItem ID="69" Created="2014-11-16 11:04:11 +0000" Modified="2014-11-16 20:13:42 +0000" Type="Text">
+                        <BinderItem ID="69" Created="2014-11-16 11:04:11 +0000" Modified="2014-11-16 21:14:01 +0000" Type="Text">
                             <Title>Partida</Title>
                             <MetaData>
                                 <LabelID>2</LabelID>
@@ -212,7 +211,20 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>12199,12199</TextSelection>
+                                <TextSelection>11628,11628</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="78" Created="2014-11-16 21:14:10 +0000" Modified="2014-11-19 20:09:40 +0000" Type="Text">
+                            <Title>Almoço Nelay</Title>
+                            <MetaData>
+                                <LabelID>2</LabelID>
+                                <StatusID>2</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>4405,4405</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
@@ -795,6 +807,42 @@
                                         <ImageScalesProportionally>Yes</ImageScalesProportionally>
                                     </MediaSettings>
                                 </BinderItem>
+                                <BinderItem ID="79" Created="2014-03-16 15:54:44 +0000" Modified="2009-09-07 13:02:59 +0000" Type="Image">
+                                    <Title>3277_800x600</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>jpg</FileExtension>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                    </MetaData>
+                                    <MediaSettings>
+                                        <ImageScalesProportionally>Yes</ImageScalesProportionally>
+                                    </MediaSettings>
+                                </BinderItem>
+                                <BinderItem ID="80" Created="2014-03-16 15:54:59 +0000" Modified="2010-09-10 17:28:01 +0000" Type="Image">
+                                    <Title>Bravil</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>jpg</FileExtension>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                    </MetaData>
+                                    <MediaSettings>
+                                        <ImageScalesProportionally>Yes</ImageScalesProportionally>
+                                    </MediaSettings>
+                                </BinderItem>
+                                <BinderItem ID="82" Created="2014-11-11 22:10:57 +0000" Modified="2014-11-11 22:08:29 +0000" Type="Image">
+                                    <Title>20141108_Carrasqueira - 141108 - 09</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>jpg</FileExtension>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                    </MetaData>
+                                    <MediaSettings>
+                                        <ImageScalesProportionally>Yes</ImageScalesProportionally>
+                                    </MediaSettings>
+                                </BinderItem>
                             </Children>
                         </BinderItem>
                     </Children>
@@ -846,126 +894,6 @@
                 <IncludeInCompile>Yes</IncludeInCompile>
                 <NotesTextSelection>0,0</NotesTextSelection>
             </MetaData>
-            <Children>
-                <BinderItem ID="36" Created="2013-08-13 13:41:38 +0000" Modified="2013-08-13 13:49:32 +0000" Type="Image">
-                    <Title>Misty_Day_In_The_Forest_by_Nitrok</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                        <FileExtension>jpg</FileExtension>
-                        <NotesTextSelection>0,0</NotesTextSelection>
-                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
-                    </MetaData>
-                    <MediaSettings>
-                        <ImageScalesProportionally>Yes</ImageScalesProportionally>
-                    </MediaSettings>
-                </BinderItem>
-                <BinderItem ID="85" Created="2013-08-13 14:07:08 +0000" Modified="2013-08-13 14:07:08 +0000" Type="Image">
-                    <Title>PDVD_035</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                        <FileExtension>bmp</FileExtension>
-                        <NotesTextSelection>0,0</NotesTextSelection>
-                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
-                    </MetaData>
-                    <MediaSettings>
-                        <ImageScalesProportionally>Yes</ImageScalesProportionally>
-                    </MediaSettings>
-                </BinderItem>
-                <BinderItem ID="39" Created="2014-11-01 15:11:53 +0000" Modified="2014-11-01 15:11:53 +0000" Type="Image">
-                    <Title>fantasy_helmet_brass_scales_b</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                        <FileExtension>jpg</FileExtension>
-                        <NotesTextSelection>0,0</NotesTextSelection>
-                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
-                    </MetaData>
-                    <MediaSettings>
-                        <ImageScalesProportionally>Yes</ImageScalesProportionally>
-                    </MediaSettings>
-                </BinderItem>
-                <BinderItem ID="40" Created="2014-11-01 15:13:04 +0000" Modified="2014-11-01 15:13:05 +0000" Type="Image">
-                    <Title>steel-shirt-front</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                        <FileExtension>jpg</FileExtension>
-                        <NotesTextSelection>0,0</NotesTextSelection>
-                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
-                    </MetaData>
-                    <MediaSettings>
-                        <ImageScalesProportionally>Yes</ImageScalesProportionally>
-                    </MediaSettings>
-                </BinderItem>
-                <BinderItem ID="41" Created="2014-11-01 15:13:27 +0000" Modified="2014-11-01 15:13:27 +0000" Type="Image">
-                    <Title>DSCF8921a</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                        <FileExtension>jpg</FileExtension>
-                        <NotesTextSelection>0,0</NotesTextSelection>
-                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
-                    </MetaData>
-                    <MediaSettings>
-                        <ImageScalesProportionally>Yes</ImageScalesProportionally>
-                    </MediaSettings>
-                </BinderItem>
-                <BinderItem ID="14" Created="2014-03-16 15:54:58 +0000" Modified="2009-08-31 09:07:43 +0000" Type="Image">
-                    <Title>DSC01602</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                        <FileExtension>jpg</FileExtension>
-                        <NotesTextSelection>0,0</NotesTextSelection>
-                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
-                    </MetaData>
-                    <MediaSettings>
-                        <ImageScalesProportionally>Yes</ImageScalesProportionally>
-                    </MediaSettings>
-                </BinderItem>
-                <BinderItem ID="22" Created="2013-08-07 19:29:48 +0000" Modified="2014-11-01 09:15:08 +0000" Type="Text">
-                    <Title>2 Texto</Title>
-                    <MetaData>
-                        <LabelID>2</LabelID>
-                        <StatusID>2</StatusID>
-                        <IncludeInCompile>No</IncludeInCompile>
-                        <NotesTextSelection>0,0</NotesTextSelection>
-                    </MetaData>
-                    <TextSettings>
-                        <Target Type="Words">0</Target>
-                    </TextSettings>
-                </BinderItem>
-                <BinderItem ID="20" Created="2014-11-01 09:08:09 +0000" Modified="2014-11-01 11:57:59 +0000" Type="Text">
-                    <Title>Pai de Rod na Mesa</Title>
-                    <MetaData>
-                        <IncludeInCompile>No</IncludeInCompile>
-                        <NotesTextSelection>0,0</NotesTextSelection>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>3972,3972</TextSelection>
-                        <Target Type="Words">0</Target>
-                    </TextSettings>
-                </BinderItem>
-                <BinderItem ID="34" Created="2014-11-01 10:57:48 +0000" Modified="2014-11-05 23:22:20 +0000" Type="Text">
-                    <Title>politica Luca</Title>
-                    <MetaData>
-                        <IncludeInCompile>No</IncludeInCompile>
-                        <NotesTextSelection>0,0</NotesTextSelection>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>0,2052</TextSelection>
-                        <Target Type="Words">0</Target>
-                    </TextSettings>
-                </BinderItem>
-                <BinderItem ID="73" Created="2014-03-16 15:54:34 +0000" Modified="2011-07-13 10:57:09 +0000" Type="Image">
-                    <Title>269555_2163629125795_1098610846_32560834_2171512_n</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                        <FileExtension>jpg</FileExtension>
-                        <NotesTextSelection>0,0</NotesTextSelection>
-                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
-                    </MetaData>
-                    <MediaSettings>
-                        <ImageScalesProportionally>Yes</ImageScalesProportionally>
-                    </MediaSettings>
-                </BinderItem>
-            </Children>
         </BinderItem>
     </Binder>
     <Collections>
