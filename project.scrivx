@@ -215,7 +215,7 @@
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="78" Created="2014-11-16 21:14:10 +0000" Modified="2014-11-20 23:20:09 +0000" Type="Text">
+                        <BinderItem ID="78" Created="2014-11-16 21:14:10 +0000" Modified="2014-11-21 23:23:46 +0000" Type="Text">
                             <Title>Almoço Nelay</Title>
                             <MetaData>
                                 <LabelID>2</LabelID>
@@ -224,7 +224,7 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>9622,9622</TextSelection>
+                                <TextSelection>15923,15923</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
@@ -291,6 +291,18 @@
                     </MetaData>
                     <TextSettings>
                         <TextSelection>921,921</TextSelection>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="34" Created="2014-11-21 23:24:12 +0000" Modified="2014-11-21 23:24:28 +0000" Type="Text">
+                    <Title>Chuva, Roxy</Title>
+                    <MetaData>
+                        <LabelID>2</LabelID>
+                        <StatusID>2</StatusID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
                         <Target Type="Words">0</Target>
                     </TextSettings>
                 </BinderItem>
@@ -855,18 +867,6 @@
                                         <ImageScalesProportionally>Yes</ImageScalesProportionally>
                                     </MediaSettings>
                                 </BinderItem>
-                                <BinderItem ID="82" Created="2014-11-11 22:10:57 +0000" Modified="2014-11-11 22:08:29 +0000" Type="Image">
-                                    <Title>20141108_Carrasqueira - 141108 - 09</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                        <FileExtension>jpg</FileExtension>
-                                        <NotesTextSelection>0,0</NotesTextSelection>
-                                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
-                                    </MetaData>
-                                    <MediaSettings>
-                                        <ImageScalesProportionally>Yes</ImageScalesProportionally>
-                                    </MediaSettings>
-                                </BinderItem>
                             </Children>
                         </BinderItem>
                     </Children>
@@ -921,6 +921,18 @@
             <Children>
                 <BinderItem ID="20" Created="2014-03-16 15:55:00 +0000" Modified="2010-09-07 18:08:03 +0000" Type="Image">
                     <Title>Ponte</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>jpg</FileExtension>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                    </MetaData>
+                    <MediaSettings>
+                        <ImageScalesProportionally>Yes</ImageScalesProportionally>
+                    </MediaSettings>
+                </BinderItem>
+                <BinderItem ID="82" Created="2014-11-11 22:10:57 +0000" Modified="2014-11-11 22:08:29 +0000" Type="Image">
+                    <Title>20141108_Carrasqueira - 141108 - 09</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <FileExtension>jpg</FileExtension>
