@@ -202,7 +202,7 @@
                         <Target Type="Words">0</Target>
                     </TextSettings>
                     <Children>
-                        <BinderItem ID="69" Created="2014-11-16 11:04:11 +0000" Modified="2014-11-16 21:14:01 +0000" Type="Text">
+                        <BinderItem ID="69" Created="2014-11-16 11:04:11 +0000" Modified="2014-11-23 14:46:51 +0000" Type="Text">
                             <Title>Partida</Title>
                             <MetaData>
                                 <LabelID>2</LabelID>
@@ -211,11 +211,11 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>11628,11628</TextSelection>
+                                <TextSelection>7114,7114</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="78" Created="2014-11-16 21:14:10 +0000" Modified="2014-11-21 23:23:46 +0000" Type="Text">
+                        <BinderItem ID="78" Created="2014-11-16 21:14:10 +0000" Modified="2014-11-23 14:17:02 +0000" Type="Text">
                             <Title>Almoço Nelay</Title>
                             <MetaData>
                                 <LabelID>2</LabelID>
@@ -224,7 +224,20 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>15923,15923</TextSelection>
+                                <TextSelection>15938,15938</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="34" Created="2014-11-21 23:24:12 +0000" Modified="2014-11-23 17:10:34 +0000" Type="Text">
+                            <Title>Chuva, Roxy</Title>
+                            <MetaData>
+                                <LabelID>2</LabelID>
+                                <StatusID>2</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>5124,5124</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
@@ -251,7 +264,7 @@
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>1312,1312</TextSelection>
+                        <TextSelection>0,1806</TextSelection>
                         <Target Type="Words">0</Target>
                     </TextSettings>
                 </BinderItem>
@@ -291,18 +304,6 @@
                     </MetaData>
                     <TextSettings>
                         <TextSelection>921,921</TextSelection>
-                        <Target Type="Words">0</Target>
-                    </TextSettings>
-                </BinderItem>
-                <BinderItem ID="34" Created="2014-11-21 23:24:12 +0000" Modified="2014-11-21 23:24:28 +0000" Type="Text">
-                    <Title>Chuva, Roxy</Title>
-                    <MetaData>
-                        <LabelID>2</LabelID>
-                        <StatusID>2</StatusID>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                        <NotesTextSelection>0,0</NotesTextSelection>
-                    </MetaData>
-                    <TextSettings>
                         <Target Type="Words">0</Target>
                     </TextSettings>
                 </BinderItem>
@@ -867,6 +868,18 @@
                                         <ImageScalesProportionally>Yes</ImageScalesProportionally>
                                     </MediaSettings>
                                 </BinderItem>
+                                <BinderItem ID="20" Created="2014-11-23 14:33:21 +0000" Modified="2014-11-23 14:33:21 +0000" Type="Image">
+                                    <Title>caveMouth</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>jpg</FileExtension>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                    </MetaData>
+                                    <MediaSettings>
+                                        <ImageScalesProportionally>Yes</ImageScalesProportionally>
+                                    </MediaSettings>
+                                </BinderItem>
                             </Children>
                         </BinderItem>
                     </Children>
@@ -918,32 +931,6 @@
                 <IncludeInCompile>Yes</IncludeInCompile>
                 <NotesTextSelection>0,0</NotesTextSelection>
             </MetaData>
-            <Children>
-                <BinderItem ID="20" Created="2014-03-16 15:55:00 +0000" Modified="2010-09-07 18:08:03 +0000" Type="Image">
-                    <Title>Ponte</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                        <FileExtension>jpg</FileExtension>
-                        <NotesTextSelection>0,0</NotesTextSelection>
-                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
-                    </MetaData>
-                    <MediaSettings>
-                        <ImageScalesProportionally>Yes</ImageScalesProportionally>
-                    </MediaSettings>
-                </BinderItem>
-                <BinderItem ID="82" Created="2014-11-11 22:10:57 +0000" Modified="2014-11-11 22:08:29 +0000" Type="Image">
-                    <Title>20141108_Carrasqueira - 141108 - 09</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                        <FileExtension>jpg</FileExtension>
-                        <NotesTextSelection>0,0</NotesTextSelection>
-                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
-                    </MetaData>
-                    <MediaSettings>
-                        <ImageScalesProportionally>Yes</ImageScalesProportionally>
-                    </MediaSettings>
-                </BinderItem>
-            </Children>
         </BinderItem>
     </Binder>
     <Collections>
@@ -952,7 +939,7 @@
         </Collection>
         <Collection Type="RecentSearch" ID="2655DDF6-4AB8-42CB-A433-1CD76FC351D2" Color="0.901961 0.901961 0.980392">
             <Title>Search Results</Title>
-            <SearchSettings Operator="Exact" Type="All" Scope="All" CompileSetting="All" CaseSensitive="No">taberna</SearchSettings>
+            <SearchSettings Operator="Exact" Type="All" Scope="All" CompileSetting="All" CaseSensitive="No">serpente</SearchSettings>
         </Collection>
     </Collections>
     <LabelSettings>
