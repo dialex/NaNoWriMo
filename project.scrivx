@@ -58,7 +58,7 @@
                         <Target Type="Words">0</Target>
                     </TextSettings>
                     <Children>
-                        <BinderItem ID="15" Created="2012-07-17 19:25:11 +0000" Modified="2014-11-04 19:35:46 +0000" Type="Text">
+                        <BinderItem ID="15" Created="2012-07-17 19:25:11 +0000" Modified="2014-11-27 18:55:34 +0000" Type="Text">
                             <Title>Acordar, Luca, Tio, Ricardo</Title>
                             <MetaData>
                                 <LabelID>2</LabelID>
@@ -67,7 +67,7 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>3973,3973</TextSelection>
+                                <TextSelection>7877,7877</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
@@ -123,8 +123,8 @@
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="47" Created="2014-11-05 20:05:03 +0000" Modified="2014-11-14 21:29:46 +0000" Type="Text">
-                            <Title>Vera, Carlos Mesa, Partida</Title>
+                        <BinderItem ID="47" Created="2014-11-05 20:05:03 +0000" Modified="2014-11-27 18:52:21 +0000" Type="Text">
+                            <Title>Vera, Karl Mesa, Partida</Title>
                             <MetaData>
                                 <LabelID>2</LabelID>
                                 <StatusID>2</StatusID>
@@ -229,7 +229,7 @@
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="34" Created="2014-11-21 23:24:12 +0000" Modified="2014-11-26 22:55:37 +0000" Type="Text">
+                        <BinderItem ID="34" Created="2014-11-21 23:24:12 +0000" Modified="2014-11-27 18:56:32 +0000" Type="Text">
                             <Title>Chuva, Roxy</Title>
                             <MetaData>
                                 <LabelID>2</LabelID>
@@ -239,7 +239,7 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>20129,20129</TextSelection>
+                                <TextSelection>15902,15902</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
@@ -953,7 +953,7 @@
         </Collection>
         <Collection Type="RecentSearch" ID="2655DDF6-4AB8-42CB-A433-1CD76FC351D2" Color="0.901961 0.901961 0.980392">
             <Title>Search Results</Title>
-            <SearchSettings Operator="Exact" Type="All" Scope="All" CompileSetting="All" CaseSensitive="No">serpente</SearchSettings>
+            <SearchSettings Operator="Exact" Type="All" Scope="All" CompileSetting="All" CaseSensitive="No">sábios</SearchSettings>
         </Collection>
     </Collections>
     <LabelSettings>
