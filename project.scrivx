@@ -268,7 +268,7 @@
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="99" Created="2014-12-03 22:44:16 +0000" Modified="2014-12-03 22:45:43 +0000" Type="Text">
+                        <BinderItem ID="99" Created="2014-12-03 22:44:16 +0000" Modified="2014-12-08 22:21:03 +0000" Type="Text">
                             <Title>Chegada Iessi, Taberna, Rapariga</Title>
                             <MetaData>
                                 <LabelID>2</LabelID>
@@ -278,6 +278,7 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
+                                <TextSelection>1718,1718</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
@@ -1110,6 +1111,93 @@
                                     </MetaData>
                                     <MediaSettings>
                                         <ImageScalesProportionally>Yes</ImageScalesProportionally>
+                                    </MediaSettings>
+                                </BinderItem>
+                                <BinderItem ID="103" Created="2014-03-16 15:54:45 +0000" Modified="2014-12-08 21:21:36 +0000" Type="Image">
+                                    <Title>Fable_Village_by_skybolt</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>jpg</FileExtension>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                    </MetaData>
+                                    <MediaSettings>
+                                        <ImageScaleFactor>0.71</ImageScaleFactor>
+                                        <ImageScalesProportionally>No</ImageScalesProportionally>
+                                    </MediaSettings>
+                                </BinderItem>
+                                <BinderItem ID="105" Created="2014-12-08 22:16:27 +0000" Modified="2014-12-08 22:17:34 +0000" Type="Image">
+                                    <Title>latest</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>jpg</FileExtension>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                    </MetaData>
+                                    <MediaSettings>
+                                        <ImageScaleFactor>0.71</ImageScaleFactor>
+                                        <ImageScalesProportionally>No</ImageScalesProportionally>
+                                    </MediaSettings>
+                                </BinderItem>
+                                <BinderItem ID="106" Created="2014-12-08 22:16:32 +0000" Modified="2014-12-08 22:16:32 +0000" Type="Image">
+                                    <Title>6364446931_7a3f2c591e_z</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>jpg</FileExtension>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                    </MetaData>
+                                    <MediaSettings>
+                                        <ImageScalesProportionally>Yes</ImageScalesProportionally>
+                                    </MediaSettings>
+                                </BinderItem>
+                                <BinderItem ID="101" Created="2014-03-16 15:54:59 +0000" Modified="2010-09-10 17:28:01 +0000" Type="Image">
+                                    <Title>Bravil</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>jpg</FileExtension>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                    </MetaData>
+                                    <MediaSettings>
+                                        <ImageScalesProportionally>Yes</ImageScalesProportionally>
+                                    </MediaSettings>
+                                </BinderItem>
+                                <BinderItem ID="102" Created="2014-03-16 15:54:59 +0000" Modified="2010-09-04 10:57:06 +0000" Type="Image">
+                                    <Title>Comunidade Pesqueira</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>jpg</FileExtension>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                    </MetaData>
+                                    <MediaSettings>
+                                        <ImageScalesProportionally>Yes</ImageScalesProportionally>
+                                    </MediaSettings>
+                                </BinderItem>
+                                <BinderItem ID="100" Created="2014-11-11 22:10:57 +0000" Modified="2014-11-11 22:08:29 +0000" Type="Image">
+                                    <Title>20141108_Carrasqueira - 141108 - 09</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>jpg</FileExtension>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                    </MetaData>
+                                    <MediaSettings>
+                                        <ImageScalesProportionally>Yes</ImageScalesProportionally>
+                                    </MediaSettings>
+                                </BinderItem>
+                                <BinderItem ID="104" Created="2014-12-08 20:56:00 +0000" Modified="2014-12-08 21:53:07 +0000" Type="Image">
+                                    <Title>Iessi_Vanguard_Outpost_by_TomScholes</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>jpg</FileExtension>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                    </MetaData>
+                                    <MediaSettings>
+                                        <ImageScaleFactor>0.78</ImageScaleFactor>
+                                        <ImageScalesProportionally>No</ImageScalesProportionally>
                                     </MediaSettings>
                                 </BinderItem>
                             </Children>
