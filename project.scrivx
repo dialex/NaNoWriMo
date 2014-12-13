@@ -268,7 +268,7 @@
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="99" Created="2014-12-03 22:44:16 +0000" Modified="2014-12-08 22:21:03 +0000" Type="Text">
+                        <BinderItem ID="99" Created="2014-12-03 22:44:16 +0000" Modified="2014-12-13 20:26:13 +0000" Type="Text">
                             <Title>Chegada Iessi, Taberna, Rapariga</Title>
                             <MetaData>
                                 <LabelID>2</LabelID>
@@ -278,7 +278,7 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>1718,1718</TextSelection>
+                                <TextSelection>2055,2055</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
