@@ -245,10 +245,10 @@
                         </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem ID="39" Created="2014-11-27 19:26:28 +0000" Modified="2014-11-27 19:26:30 +0000" Type="Folder">
+                <BinderItem ID="39" Created="2014-11-27 19:26:28 +0000" Modified="2014-12-24 18:19:49 +0000" Type="Folder">
                     <Title>5</Title>
                     <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <IncludeInCompile>No</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
@@ -268,8 +268,8 @@
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="99" Created="2014-12-03 22:44:16 +0000" Modified="2014-12-20 20:03:37 +0000" Type="Text">
-                            <Title>Chegada Iessi, Taberna, Rapariga</Title>
+                        <BinderItem ID="99" Created="2014-12-03 22:44:16 +0000" Modified="2014-12-24 18:19:28 +0000" Type="Text">
+                            <Title>Chegada Iessi, Taberna, Elly</Title>
                             <MetaData>
                                 <LabelID>2</LabelID>
                                 <StatusID>2</StatusID>
@@ -278,7 +278,18 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>6480,8133</TextSelection>
+                                <TextSelection>8866,8866</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="110" Created="2014-12-24 18:19:12 +0000" Modified="2014-12-24 18:19:51 +0000" Type="Text">
+                            <Title>Regresso de Ric+Elly</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <BreakBeforeParagraph>Yes</BreakBeforeParagraph>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
@@ -1165,6 +1176,18 @@
                                 </BinderItem>
                                 <BinderItem ID="108" Created="2014-12-14 11:47:46 +0000" Modified="2014-12-14 11:47:46 +0000" Type="Image">
                                     <Title>tavern_by_hunqwert-d33der1</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>jpg</FileExtension>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                    </MetaData>
+                                    <MediaSettings>
+                                        <ImageScalesProportionally>Yes</ImageScalesProportionally>
+                                    </MediaSettings>
+                                </BinderItem>
+                                <BinderItem ID="109" Created="2014-03-16 15:54:51 +0000" Modified="2014-12-24 17:42:04 +0000" Type="Image">
+                                    <Title>Elly</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                         <FileExtension>jpg</FileExtension>
