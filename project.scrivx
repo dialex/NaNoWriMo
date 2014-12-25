@@ -268,7 +268,7 @@
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="99" Created="2014-12-03 22:44:16 +0000" Modified="2014-12-24 18:19:28 +0000" Type="Text">
+                        <BinderItem ID="99" Created="2014-12-03 22:44:16 +0000" Modified="2014-12-24 18:39:50 +0000" Type="Text">
                             <Title>Chegada Iessi, Taberna, Elly</Title>
                             <MetaData>
                                 <LabelID>2</LabelID>
@@ -278,18 +278,20 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>8866,8866</TextSelection>
+                                <TextSelection>8885,8885</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="110" Created="2014-12-24 18:19:12 +0000" Modified="2014-12-24 18:19:51 +0000" Type="Text">
-                            <Title>Regresso de Ric+Elly</Title>
+                        <BinderItem ID="111" Created="2014-12-24 18:37:12 +0000" Modified="2014-12-25 19:35:26 +0000" Type="Text">
+                            <Title>Regresso de Ric+Elly, Partida barco</Title>
                             <MetaData>
+                                <LabelID>2</LabelID>
+                                <StatusID>2</StatusID>
                                 <IncludeInCompile>Yes</IncludeInCompile>
-                                <BreakBeforeParagraph>Yes</BreakBeforeParagraph>
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
+                                <TextSelection>4549,4549</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
@@ -1198,6 +1200,18 @@
                                         <ImageScalesProportionally>Yes</ImageScalesProportionally>
                                     </MediaSettings>
                                 </BinderItem>
+                                <BinderItem ID="114" Created="2014-12-24 19:10:51 +0000" Modified="2014-12-24 19:10:52 +0000" Type="Image">
+                                    <Title>1024px-Hjerim_-_Child's_Bedroom</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>png</FileExtension>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                    </MetaData>
+                                    <MediaSettings>
+                                        <ImageScalesProportionally>Yes</ImageScalesProportionally>
+                                    </MediaSettings>
+                                </BinderItem>
                                 <BinderItem ID="101" Created="2014-03-16 15:54:59 +0000" Modified="2010-09-10 17:28:01 +0000" Type="Image">
                                     <Title>Bravil</Title>
                                     <MetaData>
@@ -1261,13 +1275,14 @@
                         <Target Type="Words">0</Target>
                     </TextSettings>
                     <Children>
-                        <BinderItem ID="95" Created="2014-11-30 21:45:16 +0000" Modified="2014-11-30 21:47:01 +0000" Type="Text">
+                        <BinderItem ID="95" Created="2014-11-30 21:45:16 +0000" Modified="2014-12-24 18:37:34 +0000" Type="Text">
                             <Title>Ricardo</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
+                                <TextSelection>12,12</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
@@ -1289,6 +1304,17 @@
                             </MetaData>
                             <TextSettings>
                                 <TextSelection>280,280</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="112" Created="2014-12-24 18:37:45 +0000" Modified="2014-12-24 18:38:32 +0000" Type="Text">
+                            <Title>Elly</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>113,113</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
@@ -1341,18 +1367,6 @@
                 <IncludeInCompile>Yes</IncludeInCompile>
                 <NotesTextSelection>0,0</NotesTextSelection>
             </MetaData>
-            <Children>
-                <BinderItem ID="96" Created="2014-11-30 21:45:23 +0000" Modified="2014-11-30 21:45:23 +0000" Type="Text">
-                    <Title></Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                        <NotesTextSelection>0,0</NotesTextSelection>
-                    </MetaData>
-                    <TextSettings>
-                        <Target Type="Words">0</Target>
-                    </TextSettings>
-                </BinderItem>
-            </Children>
         </BinderItem>
     </Binder>
     <Collections>
