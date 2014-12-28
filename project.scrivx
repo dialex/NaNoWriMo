@@ -281,16 +281,17 @@
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="111" Created="2014-12-24 18:37:12 +0000" Modified="2014-12-28 16:18:03 +0000" Type="Text">
+                        <BinderItem ID="111" Created="2014-12-24 18:37:12 +0000" Modified="2014-12-28 23:14:42 +0000" Type="Text">
                             <Title>Regresso de Ric+Elly, Partida barco</Title>
                             <MetaData>
                                 <LabelID>2</LabelID>
                                 <StatusID>2</StatusID>
                                 <IncludeInCompile>Yes</IncludeInCompile>
+                                <BreakBeforeParagraph>Yes</BreakBeforeParagraph>
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>13744,13744</TextSelection>
+                                <TextSelection>18295,18295</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
@@ -1260,7 +1261,7 @@
                                         <ImageScalesProportionally>Yes</ImageScalesProportionally>
                                     </MediaSettings>
                                 </BinderItem>
-                                <BinderItem ID="110" Created="2014-12-26 19:09:07 +0000" Modified="2014-12-26 19:11:23 +0000" Type="Image">
+                                <BinderItem ID="110" Created="2014-12-26 19:09:07 +0000" Modified="2014-12-28 22:08:46 +0000" Type="Image">
                                     <Title>caravela</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -1270,7 +1271,7 @@
                                     </MetaData>
                                     <MediaSettings>
                                         <ImageScaleFactor>0.97</ImageScaleFactor>
-                                        <ImageScalesProportionally>No</ImageScalesProportionally>
+                                        <ImageScalesProportionally>Yes</ImageScalesProportionally>
                                     </MediaSettings>
                                 </BinderItem>
                                 <BinderItem ID="104" Created="2014-12-08 20:56:00 +0000" Modified="2014-12-26 19:09:42 +0000" Type="Image">
