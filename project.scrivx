@@ -281,7 +281,7 @@
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="111" Created="2014-12-24 18:37:12 +0000" Modified="2014-12-28 23:14:42 +0000" Type="Text">
+                        <BinderItem ID="111" Created="2014-12-24 18:37:12 +0000" Modified="2015-01-03 12:19:32 +0000" Type="Text">
                             <Title>Regresso de Ric+Elly, Partida barco</Title>
                             <MetaData>
                                 <LabelID>2</LabelID>
@@ -291,7 +291,7 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>18295,18295</TextSelection>
+                                <TextSelection>19954,19954</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
