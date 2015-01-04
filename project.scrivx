@@ -281,8 +281,8 @@
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="111" Created="2014-12-24 18:37:12 +0000" Modified="2015-01-03 12:19:32 +0000" Type="Text">
-                            <Title>Regresso de Ric+Elly, Partida barco</Title>
+                        <BinderItem ID="111" Created="2014-12-24 18:37:12 +0000" Modified="2015-01-04 15:30:00 +0000" Type="Text">
+                            <Title>Ladra Elly, Viagem até Coralyn</Title>
                             <MetaData>
                                 <LabelID>2</LabelID>
                                 <StatusID>2</StatusID>
@@ -291,7 +291,7 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>19954,19954</TextSelection>
+                                <TextSelection>25100,25100</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
@@ -1393,6 +1393,20 @@
                 <IncludeInCompile>Yes</IncludeInCompile>
                 <NotesTextSelection>0,0</NotesTextSelection>
             </MetaData>
+            <Children>
+                <BinderItem ID="113" Created="2015-01-03 17:52:38 +0000" Modified="2015-01-03 17:52:48 +0000" Type="Text">
+                    <Title>Chegada a Coralyn</Title>
+                    <MetaData>
+                        <LabelID>2</LabelID>
+                        <StatusID>2</StatusID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
         </BinderItem>
     </Binder>
     <Collections>
