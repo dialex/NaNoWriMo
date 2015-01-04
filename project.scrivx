@@ -34,13 +34,12 @@
                         <Target Type="Words">0</Target>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="13" Created="2012-07-17 19:17:48 +0000" Modified="2014-11-01 11:59:06 +0000" Type="Text">
+                <BinderItem ID="13" Created="2012-07-17 19:17:48 +0000" Modified="2015-01-04 18:28:03 +0000" Type="Text">
                     <Title>Prólogo</Title>
                     <MetaData>
                         <LabelID>2</LabelID>
                         <StatusID>5</StatusID>
                         <IncludeInCompile>Yes</IncludeInCompile>
-                        <BreakBeforeParagraph>Yes</BreakBeforeParagraph>
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
@@ -48,10 +47,10 @@
                         <Target Type="Words">0</Target>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="31" Created="2013-08-11 17:00:57 +0000" Modified="2014-11-04 22:02:01 +0000" Type="Folder">
+                <BinderItem ID="31" Created="2013-08-11 17:00:57 +0000" Modified="2015-01-04 18:24:02 +0000" Type="Folder">
                     <Title>1</Title>
                     <MetaData>
-                        <IncludeInCompile>No</IncludeInCompile>
+                        <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
@@ -86,10 +85,10 @@
                         </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem ID="25" Created="2010-10-22 19:27:32 +0000" Modified="2014-11-04 22:02:04 +0000" Type="Folder">
+                <BinderItem ID="25" Created="2010-10-22 19:27:32 +0000" Modified="2015-01-04 18:23:57 +0000" Type="Folder">
                     <Title>2</Title>
                     <MetaData>
-                        <IncludeInCompile>No</IncludeInCompile>
+                        <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
@@ -109,26 +108,24 @@
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="46" Created="2014-11-04 21:59:13 +0000" Modified="2014-11-07 23:40:24 +0000" Type="Text">
+                        <BinderItem ID="46" Created="2014-11-04 21:59:13 +0000" Modified="2015-01-04 18:23:27 +0000" Type="Text">
                             <Title>Conta » Mãe » Conta, Política Luca</Title>
                             <MetaData>
                                 <LabelID>2</LabelID>
                                 <StatusID>2</StatusID>
                                 <IncludeInCompile>Yes</IncludeInCompile>
-                                <BreakBeforeParagraph>Yes</BreakBeforeParagraph>
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="47" Created="2014-11-05 20:05:03 +0000" Modified="2014-11-27 18:52:21 +0000" Type="Text">
+                        <BinderItem ID="47" Created="2014-11-05 20:05:03 +0000" Modified="2015-01-04 18:23:27 +0000" Type="Text">
                             <Title>Vera, Karl Mesa, Partida</Title>
                             <MetaData>
                                 <LabelID>2</LabelID>
                                 <StatusID>2</StatusID>
                                 <IncludeInCompile>Yes</IncludeInCompile>
-                                <BreakBeforeParagraph>Yes</BreakBeforeParagraph>
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
@@ -136,13 +133,12 @@
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="61" Created="2014-11-12 20:41:09 +0000" Modified="2014-11-12 23:06:32 +0000" Type="Text">
+                        <BinderItem ID="61" Created="2014-11-12 20:41:09 +0000" Modified="2015-01-04 18:27:44 +0000" Type="Text">
                             <Title>Talho</Title>
                             <MetaData>
                                 <LabelID>2</LabelID>
                                 <StatusID>2</StatusID>
                                 <IncludeInCompile>Yes</IncludeInCompile>
-                                <BreakBeforeParagraph>Yes</BreakBeforeParagraph>
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
@@ -150,13 +146,12 @@
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="62" Created="2014-11-12 22:59:33 +0000" Modified="2014-11-14 22:59:48 +0000" Type="Text">
+                        <BinderItem ID="62" Created="2014-11-12 22:59:33 +0000" Modified="2015-01-04 18:27:45 +0000" Type="Text">
                             <Title>Viagem Vera-Ric, Rod-Mae</Title>
                             <MetaData>
                                 <LabelID>2</LabelID>
                                 <StatusID>2</StatusID>
                                 <IncludeInCompile>Yes</IncludeInCompile>
-                                <BreakBeforeParagraph>Yes</BreakBeforeParagraph>
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
@@ -166,10 +161,10 @@
                         </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem ID="64" Created="2014-11-14 23:02:02 +0000" Modified="2014-11-16 21:08:47 +0000" Type="Folder">
+                <BinderItem ID="64" Created="2014-11-14 23:02:02 +0000" Modified="2015-01-04 18:23:59 +0000" Type="Folder">
                     <Title>3</Title>
                     <MetaData>
-                        <IncludeInCompile>No</IncludeInCompile>
+                        <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
@@ -191,10 +186,10 @@
                         </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem ID="68" Created="2014-11-16 10:53:41 +0000" Modified="2014-11-16 21:08:48 +0000" Type="Folder">
+                <BinderItem ID="68" Created="2014-11-16 10:53:41 +0000" Modified="2015-01-04 18:23:56 +0000" Type="Folder">
                     <Title>4</Title>
                     <MetaData>
-                        <IncludeInCompile>No</IncludeInCompile>
+                        <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
@@ -214,13 +209,12 @@
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="78" Created="2014-11-16 21:14:10 +0000" Modified="2014-11-23 22:32:20 +0000" Type="Text">
+                        <BinderItem ID="78" Created="2014-11-16 21:14:10 +0000" Modified="2015-01-04 18:23:32 +0000" Type="Text">
                             <Title>Almoço Nelay</Title>
                             <MetaData>
                                 <LabelID>2</LabelID>
                                 <StatusID>2</StatusID>
                                 <IncludeInCompile>Yes</IncludeInCompile>
-                                <BreakBeforeParagraph>Yes</BreakBeforeParagraph>
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
@@ -228,13 +222,12 @@
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="34" Created="2014-11-21 23:24:12 +0000" Modified="2014-11-27 19:26:04 +0000" Type="Text">
+                        <BinderItem ID="34" Created="2014-11-21 23:24:12 +0000" Modified="2015-01-04 18:23:32 +0000" Type="Text">
                             <Title>Chuva, Roxy</Title>
                             <MetaData>
                                 <LabelID>2</LabelID>
                                 <StatusID>2</StatusID>
                                 <IncludeInCompile>Yes</IncludeInCompile>
-                                <BreakBeforeParagraph>Yes</BreakBeforeParagraph>
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
@@ -244,10 +237,10 @@
                         </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem ID="39" Created="2014-11-27 19:26:28 +0000" Modified="2014-12-24 18:19:49 +0000" Type="Folder">
+                <BinderItem ID="39" Created="2014-11-27 19:26:28 +0000" Modified="2015-01-04 18:23:55 +0000" Type="Folder">
                     <Title>5</Title>
                     <MetaData>
-                        <IncludeInCompile>No</IncludeInCompile>
+                        <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
@@ -267,13 +260,12 @@
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="99" Created="2014-12-03 22:44:16 +0000" Modified="2014-12-26 17:37:36 +0000" Type="Text">
+                        <BinderItem ID="99" Created="2014-12-03 22:44:16 +0000" Modified="2015-01-04 18:23:33 +0000" Type="Text">
                             <Title>Chegada Iessi, Taberna, Elly</Title>
                             <MetaData>
                                 <LabelID>2</LabelID>
                                 <StatusID>2</StatusID>
                                 <IncludeInCompile>Yes</IncludeInCompile>
-                                <BreakBeforeParagraph>Yes</BreakBeforeParagraph>
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
@@ -281,17 +273,64 @@
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="111" Created="2014-12-24 18:37:12 +0000" Modified="2015-01-04 15:30:00 +0000" Type="Text">
+                        <BinderItem ID="111" Created="2014-12-24 18:37:12 +0000" Modified="2015-01-04 19:34:08 +0000" Type="Text">
                             <Title>Ladra Elly, Viagem até Coralyn</Title>
                             <MetaData>
                                 <LabelID>2</LabelID>
                                 <StatusID>2</StatusID>
                                 <IncludeInCompile>Yes</IncludeInCompile>
-                                <BreakBeforeParagraph>Yes</BreakBeforeParagraph>
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>25100,25100</TextSelection>
+                                <TextSelection>26355,26355</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="115" Created="2015-01-04 19:34:18 +0000" Modified="2015-01-04 19:34:20 +0000" Type="Folder">
+                    <Title>6</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="116" Created="2015-01-04 19:34:22 +0000" Modified="2015-01-04 19:35:06 +0000" Type="Text">
+                            <Title>Resultados dos cristais</Title>
+                            <MetaData>
+                                <LabelID>2</LabelID>
+                                <StatusID>2</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="117" Created="2015-01-04 19:35:16 +0000" Modified="2015-01-04 19:35:18 +0000" Type="Folder">
+                    <Title>7</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="118" Created="2015-01-04 19:35:22 +0000" Modified="2015-01-04 19:35:33 +0000" Type="Text">
+                            <Title>Exploração Coralyn</Title>
+                            <MetaData>
+                                <LabelID>2</LabelID>
+                                <StatusID>2</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
