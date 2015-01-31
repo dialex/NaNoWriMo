@@ -171,7 +171,7 @@
                         <Target Type="Words">0</Target>
                     </TextSettings>
                     <Children>
-                        <BinderItem ID="65" Created="2014-11-14 23:02:08 +0000" Modified="2014-11-16 21:08:55 +0000" Type="Text">
+                        <BinderItem ID="65" Created="2014-11-14 23:02:08 +0000" Modified="2015-01-19 19:39:36 +0000" Type="Text">
                             <Title>Icarian-Ixilak: Edificação torres</Title>
                             <MetaData>
                                 <LabelID>2</LabelID>
@@ -180,7 +180,7 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>4697,4697</TextSelection>
+                                <TextSelection>4029,4029</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
@@ -282,7 +282,7 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>26355,26355</TextSelection>
+                                <TextSelection>21654,21654</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
@@ -298,7 +298,7 @@
                         <Target Type="Words">0</Target>
                     </TextSettings>
                     <Children>
-                        <BinderItem ID="116" Created="2015-01-04 19:34:22 +0000" Modified="2015-01-04 19:35:06 +0000" Type="Text">
+                        <BinderItem ID="116" Created="2015-01-04 19:34:22 +0000" Modified="2015-01-31 19:30:10 +0000" Type="Text">
                             <Title>Resultados dos cristais</Title>
                             <MetaData>
                                 <LabelID>2</LabelID>
@@ -307,6 +307,7 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
+                                <TextSelection>4031,4031</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
@@ -1227,6 +1228,30 @@
                                         <ImageScalesProportionally>Yes</ImageScalesProportionally>
                                     </MediaSettings>
                                 </BinderItem>
+                                <BinderItem ID="119" Created="2015-01-11 12:44:37 +0000" Modified="2015-01-11 12:44:37 +0000" Type="Image">
+                                    <Title>unbranded-value-costume-serving-wench</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>jpg</FileExtension>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                    </MetaData>
+                                    <MediaSettings>
+                                        <ImageScalesProportionally>Yes</ImageScalesProportionally>
+                                    </MediaSettings>
+                                </BinderItem>
+                                <BinderItem ID="120" Created="2015-01-11 12:44:48 +0000" Modified="2015-01-11 12:44:49 +0000" Type="Image">
+                                    <Title>8197ef6a8627cd587375f1eafe86cf80</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>jpg</FileExtension>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                    </MetaData>
+                                    <MediaSettings>
+                                        <ImageScalesProportionally>Yes</ImageScalesProportionally>
+                                    </MediaSettings>
+                                </BinderItem>
                                 <BinderItem ID="109" Created="2014-03-16 15:54:51 +0000" Modified="2014-12-24 17:42:04 +0000" Type="Image">
                                     <Title>Elly</Title>
                                     <MetaData>
@@ -1323,6 +1348,78 @@
                                     </MetaData>
                                     <MediaSettings>
                                         <ImageScaleFactor>0.85</ImageScaleFactor>
+                                        <ImageScalesProportionally>Yes</ImageScalesProportionally>
+                                    </MediaSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                        <BinderItem ID="128" Created="2015-01-31 15:45:01 +0000" Modified="2015-01-31 15:45:03 +0000" Type="Folder">
+                            <Title>6</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem ID="124" Created="2015-01-11 14:38:12 +0000" Modified="2015-01-11 14:38:13 +0000" Type="Image">
+                                    <Title>latest</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>jpg</FileExtension>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                    </MetaData>
+                                    <MediaSettings>
+                                        <ImageScalesProportionally>Yes</ImageScalesProportionally>
+                                    </MediaSettings>
+                                </BinderItem>
+                                <BinderItem ID="125" Created="2014-03-16 15:54:42 +0000" Modified="2008-07-16 09:29:18 +0000" Type="Image">
+                                    <Title>orzhov_styleimage4</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>jpg</FileExtension>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                    </MetaData>
+                                    <MediaSettings>
+                                        <ImageScalesProportionally>Yes</ImageScalesProportionally>
+                                    </MediaSettings>
+                                </BinderItem>
+                                <BinderItem ID="122" Created="2015-01-11 14:38:19 +0000" Modified="2015-01-11 14:38:19 +0000" Type="Image">
+                                    <Title>latest (1)</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>jpg</FileExtension>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                    </MetaData>
+                                    <MediaSettings>
+                                        <ImageScalesProportionally>Yes</ImageScalesProportionally>
+                                    </MediaSettings>
+                                </BinderItem>
+                                <BinderItem ID="121" Created="2015-01-11 14:42:05 +0000" Modified="2015-01-11 14:42:05 +0000" Type="Image">
+                                    <Title>boilers</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>jpg</FileExtension>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                    </MetaData>
+                                    <MediaSettings>
+                                        <ImageScalesProportionally>Yes</ImageScalesProportionally>
+                                    </MediaSettings>
+                                </BinderItem>
+                                <BinderItem ID="123" Created="2015-01-11 14:38:23 +0000" Modified="2015-01-11 14:38:25 +0000" Type="Image">
+                                    <Title>latest (3)</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>jpg</FileExtension>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                    </MetaData>
+                                    <MediaSettings>
                                         <ImageScalesProportionally>Yes</ImageScalesProportionally>
                                     </MediaSettings>
                                 </BinderItem>
@@ -1432,20 +1529,6 @@
                 <IncludeInCompile>Yes</IncludeInCompile>
                 <NotesTextSelection>0,0</NotesTextSelection>
             </MetaData>
-            <Children>
-                <BinderItem ID="113" Created="2015-01-03 17:52:38 +0000" Modified="2015-01-03 17:52:48 +0000" Type="Text">
-                    <Title>Chegada a Coralyn</Title>
-                    <MetaData>
-                        <LabelID>2</LabelID>
-                        <StatusID>2</StatusID>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                        <NotesTextSelection>0,0</NotesTextSelection>
-                    </MetaData>
-                    <TextSettings>
-                        <Target Type="Words">0</Target>
-                    </TextSettings>
-                </BinderItem>
-            </Children>
         </BinderItem>
     </Binder>
     <Collections>
