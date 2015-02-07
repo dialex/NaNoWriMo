@@ -171,7 +171,7 @@
                         <Target Type="Words">0</Target>
                     </TextSettings>
                     <Children>
-                        <BinderItem ID="65" Created="2014-11-14 23:02:08 +0000" Modified="2015-01-19 19:39:36 +0000" Type="Text">
+                        <BinderItem ID="65" Created="2014-11-14 23:02:08 +0000" Modified="2015-02-01 11:30:51 +0000" Type="Text">
                             <Title>Icarian-Ixilak: Edificação torres</Title>
                             <MetaData>
                                 <LabelID>2</LabelID>
@@ -180,7 +180,7 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>4029,4029</TextSelection>
+                                <TextSelection>1110,1110</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
@@ -288,47 +288,47 @@
                         </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem ID="115" Created="2015-01-04 19:34:18 +0000" Modified="2015-01-04 19:34:20 +0000" Type="Folder">
+                <BinderItem ID="115" Created="2015-01-04 19:34:18 +0000" Modified="2015-02-04 19:46:41 +0000" Type="Folder">
                     <Title>6</Title>
                     <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <IncludeInCompile>No</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
                         <Target Type="Words">0</Target>
                     </TextSettings>
                     <Children>
-                        <BinderItem ID="116" Created="2015-01-04 19:34:22 +0000" Modified="2015-01-31 19:30:10 +0000" Type="Text">
+                        <BinderItem ID="116" Created="2015-01-04 19:34:22 +0000" Modified="2015-02-04 19:46:37 +0000" Type="Text">
                             <Title>Resultados dos cristais</Title>
                             <MetaData>
                                 <LabelID>2</LabelID>
                                 <StatusID>2</StatusID>
-                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <IncludeInCompile>No</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>4031,4031</TextSelection>
+                                <TextSelection>4650,4650</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem ID="117" Created="2015-01-04 19:35:16 +0000" Modified="2015-01-04 19:35:18 +0000" Type="Folder">
+                <BinderItem ID="117" Created="2015-01-04 19:35:16 +0000" Modified="2015-02-04 19:46:42 +0000" Type="Folder">
                     <Title>7</Title>
                     <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <IncludeInCompile>No</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
                         <Target Type="Words">0</Target>
                     </TextSettings>
                     <Children>
-                        <BinderItem ID="118" Created="2015-01-04 19:35:22 +0000" Modified="2015-01-04 19:35:33 +0000" Type="Text">
+                        <BinderItem ID="118" Created="2015-01-04 19:35:22 +0000" Modified="2015-02-04 19:46:39 +0000" Type="Text">
                             <Title>Exploração Coralyn</Title>
                             <MetaData>
                                 <LabelID>2</LabelID>
                                 <StatusID>2</StatusID>
-                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <IncludeInCompile>No</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
@@ -1399,6 +1399,18 @@
                                         <ImageScalesProportionally>Yes</ImageScalesProportionally>
                                     </MediaSettings>
                                 </BinderItem>
+                                <BinderItem ID="123" Created="2015-01-11 14:38:23 +0000" Modified="2015-01-11 14:38:25 +0000" Type="Image">
+                                    <Title>latest (3)</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>jpg</FileExtension>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                    </MetaData>
+                                    <MediaSettings>
+                                        <ImageScalesProportionally>Yes</ImageScalesProportionally>
+                                    </MediaSettings>
+                                </BinderItem>
                                 <BinderItem ID="121" Created="2015-01-11 14:42:05 +0000" Modified="2015-01-11 14:42:05 +0000" Type="Image">
                                     <Title>boilers</Title>
                                     <MetaData>
@@ -1411,8 +1423,8 @@
                                         <ImageScalesProportionally>Yes</ImageScalesProportionally>
                                     </MediaSettings>
                                 </BinderItem>
-                                <BinderItem ID="123" Created="2015-01-11 14:38:23 +0000" Modified="2015-01-11 14:38:25 +0000" Type="Image">
-                                    <Title>latest (3)</Title>
+                                <BinderItem ID="113" Created="2015-02-01 12:24:33 +0000" Modified="2015-02-01 12:24:34 +0000" Type="Image">
+                                    <Title>estambul</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                         <FileExtension>jpg</FileExtension>
@@ -1570,5 +1582,5 @@
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetDaily="No" DeterminedFromDeadline="No" WritingDays="">0</SessionTarget>
     </ProjectTargets>
-    <PrintSettings PaperType="Letter" LeftMargin="72.0001" RightMargin="72.0001" TopMargin="72.0001" BottomMargin="72.0001" Orientation="Portrait" Collates="No" ReverseOrder="No"/>
+    <PrintSettings PaperType="A4" LeftMargin="72.0001" RightMargin="72.0001" TopMargin="72.0001" BottomMargin="72.0001" Orientation="Portrait" Collates="No" ReverseOrder="No"/>
 </ScrivenerProject>
