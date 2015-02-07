@@ -288,26 +288,26 @@
                         </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem ID="115" Created="2015-01-04 19:34:18 +0000" Modified="2015-02-04 19:46:41 +0000" Type="Folder">
+                <BinderItem ID="115" Created="2015-01-04 19:34:18 +0000" Modified="2015-02-07 22:01:02 +0000" Type="Folder">
                     <Title>6</Title>
                     <MetaData>
-                        <IncludeInCompile>No</IncludeInCompile>
+                        <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
                         <Target Type="Words">0</Target>
                     </TextSettings>
                     <Children>
-                        <BinderItem ID="116" Created="2015-01-04 19:34:22 +0000" Modified="2015-02-04 19:46:37 +0000" Type="Text">
+                        <BinderItem ID="116" Created="2015-01-04 19:34:22 +0000" Modified="2015-02-07 22:01:01 +0000" Type="Text">
                             <Title>Resultados dos cristais</Title>
                             <MetaData>
                                 <LabelID>2</LabelID>
                                 <StatusID>2</StatusID>
-                                <IncludeInCompile>No</IncludeInCompile>
+                                <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>4650,4650</TextSelection>
+                                <TextSelection>13319,13319</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
@@ -510,6 +510,17 @@
                     </MetaData>
                     <TextSettings>
                         <TextSelection>2238,2238</TextSelection>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="126" Created="2015-02-07 19:29:17 +0000" Modified="2015-02-07 19:29:31 +0000" Type="Text">
+                    <Title>Adormeceres diferentes</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>3,3</TextSelection>
                         <Target Type="Words">0</Target>
                     </TextSettings>
                 </BinderItem>
