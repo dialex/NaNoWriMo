@@ -222,7 +222,7 @@
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="34" Created="2014-11-21 23:24:12 +0000" Modified="2015-01-04 18:23:32 +0000" Type="Text">
+                        <BinderItem ID="34" Created="2014-11-21 23:24:12 +0000" Modified="2015-03-21 19:13:19 +0000" Type="Text">
                             <Title>Chuva, Roxy</Title>
                             <MetaData>
                                 <LabelID>2</LabelID>
@@ -231,7 +231,7 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>16200,16200</TextSelection>
+                                <TextSelection>18026,18026</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
@@ -323,7 +323,7 @@
                         <Target Type="Words">0</Target>
                     </TextSettings>
                     <Children>
-                        <BinderItem ID="118" Created="2015-01-04 19:35:22 +0000" Modified="2015-03-15 20:39:45 +0000" Type="Text">
+                        <BinderItem ID="118" Created="2015-01-04 19:35:22 +0000" Modified="2015-03-21 20:01:27 +0000" Type="Text">
                             <Title>Exploração Coralyn</Title>
                             <MetaData>
                                 <LabelID>2</LabelID>
@@ -332,7 +332,7 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>15199,15199</TextSelection>
+                                <TextSelection>18357,18357</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
