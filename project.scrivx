@@ -322,7 +322,7 @@
                         <Target Type="Words">0</Target>
                     </TextSettings>
                     <Children>
-                        <BinderItem ID="118" Created="2015-01-04 19:35:22 +0000" Modified="2015-04-19 22:09:34 +0000" Type="Text">
+                        <BinderItem ID="118" Created="2015-01-04 19:35:22 +0000" Modified="2015-04-25 15:52:35 +0000" Type="Text">
                             <Title>Exploração Coralyn</Title>
                             <MetaData>
                                 <LabelID>2</LabelID>
@@ -331,7 +331,31 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>31025,31025</TextSelection>
+                                <TextSelection>33098,33098</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="141" Created="2015-04-25 16:06:13 +0000" Modified="2015-04-25 16:06:14 +0000" Type="Folder">
+                    <Title>8</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="143" Created="2015-04-25 16:06:25 +0000" Modified="2015-04-25 16:06:38 +0000" Type="Text">
+                            <Title>Icanrian em Coralyn</Title>
+                            <MetaData>
+                                <LabelID>2</LabelID>
+                                <StatusID>2</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
@@ -1606,6 +1630,16 @@
                         </BinderItem>
                     </Children>
                 </BinderItem>
+                <BinderItem ID="144" Created="2015-04-25 16:06:46 +0000" Modified="2015-04-25 16:06:47 +0000" Type="Folder">
+                    <Title>8</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
                 <BinderItem ID="94" Created="2014-11-30 21:45:06 +0000" Modified="2014-11-30 21:45:11 +0000" Type="Folder">
                     <Title>Personagens (Desc)</Title>
                     <MetaData>
@@ -1708,6 +1742,20 @@
                 <IncludeInCompile>Yes</IncludeInCompile>
                 <NotesTextSelection>0,0</NotesTextSelection>
             </MetaData>
+            <Children>
+                <BinderItem ID="142" Created="2015-04-25 16:06:13 +0000" Modified="2015-04-25 16:06:13 +0000" Type="Text">
+                    <Title>Exploração Coralyn</Title>
+                    <MetaData>
+                        <LabelID>2</LabelID>
+                        <StatusID>2</StatusID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
         </BinderItem>
     </Binder>
     <Collections>
