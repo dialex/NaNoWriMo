@@ -347,7 +347,7 @@
                         <Target Type="Words">0</Target>
                     </TextSettings>
                     <Children>
-                        <BinderItem ID="143" Created="2015-04-25 16:06:25 +0000" Modified="2015-05-03 11:52:09 +0000" Type="Text">
+                        <BinderItem ID="143" Created="2015-04-25 16:06:25 +0000" Modified="2015-05-03 16:15:40 +0000" Type="Text">
                             <Title>Icarian em Coralyn</Title>
                             <MetaData>
                                 <LabelID>2</LabelID>
@@ -356,7 +356,7 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>4212,4212</TextSelection>
+                                <TextSelection>4304,4304</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
