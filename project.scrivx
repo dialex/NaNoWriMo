@@ -281,7 +281,7 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>23730,23730</TextSelection>
+                                <TextSelection>24912,24953</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
@@ -331,7 +331,7 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>33098,33098</TextSelection>
+                                <TextSelection>32167,32167</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
@@ -347,8 +347,8 @@
                         <Target Type="Words">0</Target>
                     </TextSettings>
                     <Children>
-                        <BinderItem ID="143" Created="2015-04-25 16:06:25 +0000" Modified="2015-04-25 16:06:38 +0000" Type="Text">
-                            <Title>Icanrian em Coralyn</Title>
+                        <BinderItem ID="143" Created="2015-04-25 16:06:25 +0000" Modified="2015-05-03 11:52:09 +0000" Type="Text">
+                            <Title>Icarian em Coralyn</Title>
                             <MetaData>
                                 <LabelID>2</LabelID>
                                 <StatusID>2</StatusID>
@@ -356,6 +356,7 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
+                                <TextSelection>4212,4212</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
@@ -437,7 +438,7 @@
                 <Target Type="Words">0</Target>
             </TextSettings>
             <Children>
-                <BinderItem ID="10" Created="2012-10-02 09:44:53 +0000" Modified="2014-08-23 10:49:52 +0000" Type="Text">
+                <BinderItem ID="10" Created="2012-10-02 09:44:53 +0000" Modified="2015-05-02 13:27:38 +0000" Type="Text">
                     <Title>Ric+Roxy amantes</Title>
                     <MetaData>
                         <LabelID>1</LabelID>
@@ -446,7 +447,7 @@
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>1200,1200</TextSelection>
+                        <TextSelection>390,390</TextSelection>
                         <Target Type="Words">0</Target>
                     </TextSettings>
                 </BinderItem>
@@ -500,19 +501,6 @@
                         <Target Type="Words">0</Target>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="27" Created="2013-08-09 11:25:26 +0000" Modified="2013-08-11 17:07:19 +0000" Type="Text">
-                    <Title>Prisão</Title>
-                    <MetaData>
-                        <LabelID>1</LabelID>
-                        <StatusID>2</StatusID>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                        <NotesTextSelection>0,0</NotesTextSelection>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>3777,3777</TextSelection>
-                        <Target Type="Words">0</Target>
-                    </TextSettings>
-                </BinderItem>
                 <BinderItem ID="28" Created="2013-08-11 16:51:20 +0000" Modified="2013-08-11 17:07:19 +0000" Type="Text">
                     <Title>Rod: Depressão</Title>
                     <MetaData>
@@ -533,7 +521,7 @@
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>2238,2238</TextSelection>
+                        <TextSelection>865,865</TextSelection>
                         <Target Type="Words">0</Target>
                     </TextSettings>
                 </BinderItem>
@@ -1639,6 +1627,32 @@
                     <TextSettings>
                         <Target Type="Words">0</Target>
                     </TextSettings>
+                    <Children>
+                        <BinderItem ID="145" Created="2015-05-02 13:47:44 +0000" Modified="2015-05-02 13:47:44 +0000" Type="Image">
+                            <Title>3a40fc7ebbab4598b83c4f2343b277ad-d4acsef</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>jpg</FileExtension>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                            </MetaData>
+                            <MediaSettings>
+                                <ImageScalesProportionally>Yes</ImageScalesProportionally>
+                            </MediaSettings>
+                        </BinderItem>
+                        <BinderItem ID="146" Created="2015-05-02 13:48:47 +0000" Modified="2015-05-02 13:48:47 +0000" Type="Image">
+                            <Title>4219250149_5dc7d7652a</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>jpg</FileExtension>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                            </MetaData>
+                            <MediaSettings>
+                                <ImageScalesProportionally>Yes</ImageScalesProportionally>
+                            </MediaSettings>
+                        </BinderItem>
+                    </Children>
                 </BinderItem>
                 <BinderItem ID="94" Created="2014-11-30 21:45:06 +0000" Modified="2014-11-30 21:45:11 +0000" Type="Folder">
                     <Title>Personagens (Desc)</Title>
@@ -1752,6 +1766,19 @@
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="27" Created="2013-08-09 11:25:26 +0000" Modified="2013-08-11 17:07:19 +0000" Type="Text">
+                    <Title>Prisão</Title>
+                    <MetaData>
+                        <LabelID>1</LabelID>
+                        <StatusID>2</StatusID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>2116,2116</TextSelection>
                         <Target Type="Words">0</Target>
                     </TextSettings>
                 </BinderItem>
