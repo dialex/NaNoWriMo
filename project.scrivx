@@ -66,7 +66,7 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>2266,2274</TextSelection>
+                                <TextSelection>734,734</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
@@ -103,7 +103,7 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>263,263</TextSelection>
+                                <TextSelection>2686,2691</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
@@ -208,7 +208,7 @@
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="78" Created="2014-11-16 21:14:10 +0000" Modified="2015-01-04 18:23:32 +0000" Type="Text">
+                        <BinderItem ID="78" Created="2014-11-16 21:14:10 +0000" Modified="2015-05-17 10:41:17 +0000" Type="Text">
                             <Title>Almoço Nelay</Title>
                             <MetaData>
                                 <LabelID>2</LabelID>
@@ -217,7 +217,7 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>13174,13174</TextSelection>
+                                <TextSelection>15152,15448</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
@@ -347,7 +347,7 @@
                         <Target Type="Words">0</Target>
                     </TextSettings>
                     <Children>
-                        <BinderItem ID="143" Created="2015-04-25 16:06:25 +0000" Modified="2015-05-03 16:15:40 +0000" Type="Text">
+                        <BinderItem ID="143" Created="2015-04-25 16:06:25 +0000" Modified="2015-05-21 22:13:26 +0000" Type="Text">
                             <Title>Icarian em Coralyn</Title>
                             <MetaData>
                                 <LabelID>2</LabelID>
@@ -356,7 +356,7 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>4304,4304</TextSelection>
+                                <TextSelection>10601,10601</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
@@ -1616,41 +1616,101 @@
                                 </BinderItem>
                             </Children>
                         </BinderItem>
-                    </Children>
-                </BinderItem>
-                <BinderItem ID="144" Created="2015-04-25 16:06:46 +0000" Modified="2015-04-25 16:06:47 +0000" Type="Folder">
-                    <Title>8</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                        <NotesTextSelection>0,0</NotesTextSelection>
-                    </MetaData>
-                    <TextSettings>
-                        <Target Type="Words">0</Target>
-                    </TextSettings>
-                    <Children>
-                        <BinderItem ID="145" Created="2015-05-02 13:47:44 +0000" Modified="2015-05-02 13:47:44 +0000" Type="Image">
-                            <Title>3a40fc7ebbab4598b83c4f2343b277ad-d4acsef</Title>
+                        <BinderItem ID="144" Created="2015-04-25 16:06:46 +0000" Modified="2015-04-25 16:06:47 +0000" Type="Folder">
+                            <Title>8</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
-                                <FileExtension>jpg</FileExtension>
                                 <NotesTextSelection>0,0</NotesTextSelection>
-                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
                             </MetaData>
-                            <MediaSettings>
-                                <ImageScalesProportionally>Yes</ImageScalesProportionally>
-                            </MediaSettings>
-                        </BinderItem>
-                        <BinderItem ID="146" Created="2015-05-02 13:48:47 +0000" Modified="2015-05-02 13:48:47 +0000" Type="Image">
-                            <Title>4219250149_5dc7d7652a</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <FileExtension>jpg</FileExtension>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
-                            </MetaData>
-                            <MediaSettings>
-                                <ImageScalesProportionally>Yes</ImageScalesProportionally>
-                            </MediaSettings>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem ID="145" Created="2015-05-02 13:47:44 +0000" Modified="2015-05-02 13:47:44 +0000" Type="Image">
+                                    <Title>3a40fc7ebbab4598b83c4f2343b277ad-d4acsef</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>jpg</FileExtension>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                    </MetaData>
+                                    <MediaSettings>
+                                        <ImageScalesProportionally>Yes</ImageScalesProportionally>
+                                    </MediaSettings>
+                                </BinderItem>
+                                <BinderItem ID="146" Created="2015-05-02 13:48:47 +0000" Modified="2015-05-02 13:48:47 +0000" Type="Image">
+                                    <Title>4219250149_5dc7d7652a</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>jpg</FileExtension>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                    </MetaData>
+                                    <MediaSettings>
+                                        <ImageScalesProportionally>Yes</ImageScalesProportionally>
+                                    </MediaSettings>
+                                </BinderItem>
+                                <BinderItem ID="142" Created="2015-05-17 14:44:16 +0000" Modified="2015-05-17 14:44:16 +0000" Type="Image">
+                                    <Title>carruagem rainha elisabete</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>jpg</FileExtension>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                    </MetaData>
+                                    <MediaSettings>
+                                        <ImageScalesProportionally>Yes</ImageScalesProportionally>
+                                    </MediaSettings>
+                                </BinderItem>
+                                <BinderItem ID="27" Created="2015-05-17 14:43:58 +0000" Modified="2015-05-17 14:43:58 +0000" Type="Image">
+                                    <Title>041-CarruagemAntiga</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>jpg</FileExtension>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                    </MetaData>
+                                    <MediaSettings>
+                                        <ImageScalesProportionally>Yes</ImageScalesProportionally>
+                                    </MediaSettings>
+                                </BinderItem>
+                                <BinderItem ID="148" Created="2015-05-17 09:58:59 +0000" Modified="2015-05-17 09:59:01 +0000" Type="Image">
+                                    <Title>zestiria 1</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>jpg</FileExtension>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                    </MetaData>
+                                    <MediaSettings>
+                                        <ImageScalesProportionally>Yes</ImageScalesProportionally>
+                                    </MediaSettings>
+                                </BinderItem>
+                                <BinderItem ID="149" Created="2015-05-02 14:22:00 +0000" Modified="2015-05-02 14:22:00 +0000" Type="Image">
+                                    <Title>Yaag_face</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>jpg</FileExtension>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                    </MetaData>
+                                    <MediaSettings>
+                                        <ImageScalesProportionally>Yes</ImageScalesProportionally>
+                                    </MediaSettings>
+                                </BinderItem>
+                                <BinderItem ID="150" Created="2014-03-16 15:54:50 +0000" Modified="2010-03-06 17:09:29 +0000" Type="Image">
+                                    <Title>FF XIII - Yaag Rosch</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>png</FileExtension>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                    </MetaData>
+                                    <MediaSettings>
+                                        <ImageScalesProportionally>Yes</ImageScalesProportionally>
+                                    </MediaSettings>
+                                </BinderItem>
+                            </Children>
                         </BinderItem>
                     </Children>
                 </BinderItem>
@@ -1757,30 +1817,17 @@
                 <NotesTextSelection>0,0</NotesTextSelection>
             </MetaData>
             <Children>
-                <BinderItem ID="142" Created="2015-04-25 16:06:13 +0000" Modified="2015-04-25 16:06:13 +0000" Type="Text">
-                    <Title>Exploração Coralyn</Title>
+                <BinderItem ID="147" Created="2015-05-02 14:22:03 +0000" Modified="2015-05-02 14:22:03 +0000" Type="Image">
+                    <Title>Yaag_Rosch_FFXIII</Title>
                     <MetaData>
-                        <LabelID>2</LabelID>
-                        <StatusID>2</StatusID>
                         <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>jpg</FileExtension>
                         <NotesTextSelection>0,0</NotesTextSelection>
+                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
                     </MetaData>
-                    <TextSettings>
-                        <Target Type="Words">0</Target>
-                    </TextSettings>
-                </BinderItem>
-                <BinderItem ID="27" Created="2013-08-09 11:25:26 +0000" Modified="2013-08-11 17:07:19 +0000" Type="Text">
-                    <Title>Prisão</Title>
-                    <MetaData>
-                        <LabelID>1</LabelID>
-                        <StatusID>2</StatusID>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                        <NotesTextSelection>0,0</NotesTextSelection>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>2116,2116</TextSelection>
-                        <Target Type="Words">0</Target>
-                    </TextSettings>
+                    <MediaSettings>
+                        <ImageScalesProportionally>Yes</ImageScalesProportionally>
+                    </MediaSettings>
                 </BinderItem>
             </Children>
         </BinderItem>
