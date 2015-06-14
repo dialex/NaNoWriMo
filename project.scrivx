@@ -34,7 +34,7 @@
                         <Target Type="Words">0</Target>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="13" Created="2012-07-17 19:17:48 +0000" Modified="2015-01-04 18:28:03 +0000" Type="Text">
+                <BinderItem ID="13" Created="2012-07-17 19:17:48 +0000" Modified="2015-06-14 15:25:23 +0000" Type="Text">
                     <Title>Prólogo</Title>
                     <MetaData>
                         <LabelID>2</LabelID>
@@ -43,7 +43,7 @@
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>3857,3857</TextSelection>
+                        <TextSelection>2194,2194</TextSelection>
                         <Target Type="Words">0</Target>
                     </TextSettings>
                 </BinderItem>
@@ -57,7 +57,7 @@
                         <Target Type="Words">0</Target>
                     </TextSettings>
                     <Children>
-                        <BinderItem ID="15" Created="2012-07-17 19:25:11 +0000" Modified="2014-11-27 18:55:34 +0000" Type="Text">
+                        <BinderItem ID="15" Created="2012-07-17 19:25:11 +0000" Modified="2015-06-14 15:33:35 +0000" Type="Text">
                             <Title>Acordar, Luca, Tio, Ricardo</Title>
                             <MetaData>
                                 <LabelID>2</LabelID>
@@ -66,11 +66,10 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>734,734</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="42" Created="2014-11-01 15:57:09 +0000" Modified="2014-11-08 11:09:13 +0000" Type="Text">
+                        <BinderItem ID="42" Created="2014-11-01 15:57:09 +0000" Modified="2015-06-14 17:05:16 +0000" Type="Text">
                             <Title>Buraco, Yen</Title>
                             <MetaData>
                                 <LabelID>2</LabelID>
@@ -79,6 +78,7 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
+                                <TextSelection>15500,15500</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
@@ -306,7 +306,7 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>13023,13023</TextSelection>
+                                <TextSelection>7961,7961</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
