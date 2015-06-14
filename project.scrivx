@@ -94,7 +94,7 @@
                         <Target Type="Words">0</Target>
                     </TextSettings>
                     <Children>
-                        <BinderItem ID="45" Created="2014-11-03 20:48:41 +0000" Modified="2014-11-04 21:59:10 +0000" Type="Text">
+                        <BinderItem ID="45" Created="2014-11-03 20:48:41 +0000" Modified="2015-06-14 17:12:43 +0000" Type="Text">
                             <Title>Pesadelo</Title>
                             <MetaData>
                                 <LabelID>2</LabelID>
@@ -103,11 +103,11 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>2686,2691</TextSelection>
+                                <TextSelection>2871,2871</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="46" Created="2014-11-04 21:59:13 +0000" Modified="2015-01-04 18:23:27 +0000" Type="Text">
+                        <BinderItem ID="46" Created="2014-11-04 21:59:13 +0000" Modified="2015-06-14 17:34:49 +0000" Type="Text">
                             <Title>Conta » Mãe » Conta, Política Luca</Title>
                             <MetaData>
                                 <LabelID>2</LabelID>
@@ -116,10 +116,11 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
+                                <TextSelection>9582,9582</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="47" Created="2014-11-05 20:05:03 +0000" Modified="2015-01-04 18:23:27 +0000" Type="Text">
+                        <BinderItem ID="47" Created="2014-11-05 20:05:03 +0000" Modified="2015-06-14 17:45:00 +0000" Type="Text">
                             <Title>Vera, Karl Mesa, Partida</Title>
                             <MetaData>
                                 <LabelID>2</LabelID>
@@ -128,11 +129,11 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>19089,19089</TextSelection>
+                                <TextSelection>17073,17073</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="61" Created="2014-11-12 20:41:09 +0000" Modified="2015-01-04 18:27:44 +0000" Type="Text">
+                        <BinderItem ID="61" Created="2014-11-12 20:41:09 +0000" Modified="2015-06-14 17:46:52 +0000" Type="Text">
                             <Title>Talho</Title>
                             <MetaData>
                                 <LabelID>2</LabelID>
@@ -141,11 +142,11 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>3243,3243</TextSelection>
+                                <TextSelection>834,834</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="62" Created="2014-11-12 22:59:33 +0000" Modified="2015-01-04 18:27:45 +0000" Type="Text">
+                        <BinderItem ID="62" Created="2014-11-12 22:59:33 +0000" Modified="2015-06-14 17:47:20 +0000" Type="Text">
                             <Title>Viagem Vera-Ric, Rod-Mae</Title>
                             <MetaData>
                                 <LabelID>2</LabelID>
@@ -154,7 +155,7 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>298,298</TextSelection>
+                                <TextSelection>5170,5170</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
