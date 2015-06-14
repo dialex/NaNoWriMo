@@ -322,7 +322,7 @@
                         <Target Type="Words">0</Target>
                     </TextSettings>
                     <Children>
-                        <BinderItem ID="118" Created="2015-01-04 19:35:22 +0000" Modified="2015-04-25 15:52:35 +0000" Type="Text">
+                        <BinderItem ID="118" Created="2015-01-04 19:35:22 +0000" Modified="2015-06-14 18:50:33 +0000" Type="Text">
                             <Title>Exploração Coralyn</Title>
                             <MetaData>
                                 <LabelID>2</LabelID>
@@ -331,7 +331,7 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>32167,32167</TextSelection>
+                                <TextSelection>32583,32583</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
@@ -356,7 +356,7 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>9089,10646</TextSelection>
+                                <TextSelection>8703,8703</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
