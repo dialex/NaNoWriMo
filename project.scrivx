@@ -180,7 +180,6 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>1110,1110</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
@@ -196,7 +195,7 @@
                         <Target Type="Words">0</Target>
                     </TextSettings>
                     <Children>
-                        <BinderItem ID="69" Created="2014-11-16 11:04:11 +0000" Modified="2014-11-23 14:46:51 +0000" Type="Text">
+                        <BinderItem ID="69" Created="2014-11-16 11:04:11 +0000" Modified="2015-06-14 17:53:42 +0000" Type="Text">
                             <Title>Partida</Title>
                             <MetaData>
                                 <LabelID>2</LabelID>
@@ -205,11 +204,11 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>7596,7596</TextSelection>
+                                <TextSelection>9971,9976</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="78" Created="2014-11-16 21:14:10 +0000" Modified="2015-05-17 10:41:17 +0000" Type="Text">
+                        <BinderItem ID="78" Created="2014-11-16 21:14:10 +0000" Modified="2015-06-14 18:02:05 +0000" Type="Text">
                             <Title>Almoço Nelay</Title>
                             <MetaData>
                                 <LabelID>2</LabelID>
@@ -218,11 +217,11 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>15152,15448</TextSelection>
+                                <TextSelection>11172,11172</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="34" Created="2014-11-21 23:24:12 +0000" Modified="2015-03-21 19:13:19 +0000" Type="Text">
+                        <BinderItem ID="34" Created="2014-11-21 23:24:12 +0000" Modified="2015-06-14 18:07:19 +0000" Type="Text">
                             <Title>Chuva, Roxy</Title>
                             <MetaData>
                                 <LabelID>2</LabelID>
@@ -231,7 +230,7 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>18026,18026</TextSelection>
+                                <TextSelection>21446,21446</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
@@ -256,7 +255,7 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>19050,19050</TextSelection>
+                                <TextSelection>21,21</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
