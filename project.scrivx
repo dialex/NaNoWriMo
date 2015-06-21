@@ -66,11 +66,11 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>10875,10875</TextSelection>
+                                <TextSelection>10543,10656</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="42" Created="2014-11-01 15:57:09 +0000" Modified="2015-06-20 11:05:03 +0000" Type="Text">
+                        <BinderItem ID="42" Created="2014-11-01 15:57:09 +0000" Modified="2015-06-21 08:21:38 +0000" Type="Text">
                             <Title>Buraco, Yen</Title>
                             <MetaData>
                                 <LabelID>2</LabelID>
@@ -79,7 +79,7 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>15904,15904</TextSelection>
+                                <TextSelection>10944,10949</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
@@ -117,7 +117,7 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>5828,5828</TextSelection>
+                                <TextSelection>109,196</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
@@ -197,7 +197,7 @@
                         <Target Type="Words">0</Target>
                     </TextSettings>
                     <Children>
-                        <BinderItem ID="69" Created="2014-11-16 11:04:11 +0000" Modified="2015-06-14 17:53:42 +0000" Type="Text">
+                        <BinderItem ID="69" Created="2014-11-16 11:04:11 +0000" Modified="2015-06-20 15:01:42 +0000" Type="Text">
                             <Title>Partida</Title>
                             <MetaData>
                                 <LabelID>2</LabelID>
@@ -206,11 +206,11 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>44,61</TextSelection>
+                                <TextSelection>11681,11681</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="78" Created="2014-11-16 21:14:10 +0000" Modified="2015-06-14 18:02:05 +0000" Type="Text">
+                        <BinderItem ID="78" Created="2014-11-16 21:14:10 +0000" Modified="2015-06-21 08:19:46 +0000" Type="Text">
                             <Title>Almoço Nelay</Title>
                             <MetaData>
                                 <LabelID>2</LabelID>
@@ -219,11 +219,11 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>11172,11172</TextSelection>
+                                <TextSelection>15370,15370</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="34" Created="2014-11-21 23:24:12 +0000" Modified="2015-06-14 18:07:19 +0000" Type="Text">
+                        <BinderItem ID="34" Created="2014-11-21 23:24:12 +0000" Modified="2015-06-21 08:58:27 +0000" Type="Text">
                             <Title>Chuva, Roxy</Title>
                             <MetaData>
                                 <LabelID>2</LabelID>
@@ -232,7 +232,7 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>21446,21446</TextSelection>
+                                <TextSelection>21570,21570</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
@@ -1767,17 +1767,18 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>12,12</TextSelection>
+                                <TextSelection>113,113</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="98" Created="2014-11-30 21:45:26 +0000" Modified="2014-11-30 21:45:32 +0000" Type="Text">
+                        <BinderItem ID="98" Created="2014-11-30 21:45:26 +0000" Modified="2015-06-21 08:22:13 +0000" Type="Text">
                             <Title>Rodrigo</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
+                                <TextSelection>251,251</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
