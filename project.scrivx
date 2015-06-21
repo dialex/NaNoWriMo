@@ -248,7 +248,7 @@
                         <Target Type="Words">0</Target>
                     </TextSettings>
                     <Children>
-                        <BinderItem ID="40" Created="2014-11-27 19:26:33 +0000" Modified="2015-06-14 18:29:38 +0000" Type="Text">
+                        <BinderItem ID="40" Created="2014-11-27 19:26:33 +0000" Modified="2015-06-21 13:42:53 +0000" Type="Text">
                             <Title>Pomar Iessi-Iessi</Title>
                             <MetaData>
                                 <LabelID>2</LabelID>
@@ -257,11 +257,11 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>17976,17976</TextSelection>
+                                <TextSelection>17488,17488</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="99" Created="2014-12-03 22:44:16 +0000" Modified="2015-06-14 18:30:47 +0000" Type="Text">
+                        <BinderItem ID="99" Created="2014-12-03 22:44:16 +0000" Modified="2015-06-21 15:10:49 +0000" Type="Text">
                             <Title>Chegada Iessi, Taberna, Elly</Title>
                             <MetaData>
                                 <LabelID>2</LabelID>
@@ -270,11 +270,11 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>418,418</TextSelection>
+                                <TextSelection>8665,8665</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="111" Created="2014-12-24 18:37:12 +0000" Modified="2015-06-14 18:39:53 +0000" Type="Text">
+                        <BinderItem ID="111" Created="2014-12-24 18:37:12 +0000" Modified="2015-06-21 15:50:43 +0000" Type="Text">
                             <Title>Ladra Elly, Viagem até Coralyn</Title>
                             <MetaData>
                                 <LabelID>2</LabelID>
@@ -283,7 +283,7 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>23311,23311</TextSelection>
+                                <TextSelection>26497,26497</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
@@ -308,7 +308,6 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>12542,12542</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
@@ -1760,14 +1759,14 @@
                         <Target Type="Words">0</Target>
                     </TextSettings>
                     <Children>
-                        <BinderItem ID="95" Created="2014-11-30 21:45:16 +0000" Modified="2014-12-24 18:37:34 +0000" Type="Text">
+                        <BinderItem ID="95" Created="2014-11-30 21:45:16 +0000" Modified="2015-06-21 15:11:30 +0000" Type="Text">
                             <Title>Ricardo</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>113,113</TextSelection>
+                                <TextSelection>140,140</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
@@ -1789,18 +1788,18 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>280,280</TextSelection>
+                                <TextSelection>229,229</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="112" Created="2014-12-24 18:37:45 +0000" Modified="2014-12-24 18:38:32 +0000" Type="Text">
+                        <BinderItem ID="112" Created="2014-12-24 18:37:45 +0000" Modified="2015-06-21 15:11:56 +0000" Type="Text">
                             <Title>Elly</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>113,113</TextSelection>
+                                <TextSelection>98,98</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
