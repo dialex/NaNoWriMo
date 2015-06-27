@@ -21,7 +21,7 @@
                 <NotesTextSelection>0,0</NotesTextSelection>
             </MetaData>
             <Children>
-                <BinderItem ID="11" Created="2006-11-05 14:29:11 +0000" Modified="2014-08-23 10:56:38 +0000" Type="Text">
+                <BinderItem ID="11" Created="2006-11-05 14:29:11 +0000" Modified="2015-06-27 17:10:28 +0000" Type="Text">
                     <Title>Cover</Title>
                     <MetaData>
                         <StatusID>6</StatusID>
@@ -47,9 +47,10 @@
                         <Target Type="Words">0</Target>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="31" Created="2013-08-11 17:00:57 +0000" Modified="2015-01-04 18:24:02 +0000" Type="Folder">
+                <BinderItem ID="31" Created="2013-08-11 17:00:57 +0000" Modified="2015-06-27 16:30:16 +0000" Type="Folder">
                     <Title>1</Title>
                     <MetaData>
+                        <StatusID>5</StatusID>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
@@ -85,9 +86,10 @@
                         </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem ID="25" Created="2010-10-22 19:27:32 +0000" Modified="2015-01-04 18:23:57 +0000" Type="Folder">
+                <BinderItem ID="25" Created="2010-10-22 19:27:32 +0000" Modified="2015-06-27 16:30:16 +0000" Type="Folder">
                     <Title>2</Title>
                     <MetaData>
+                        <StatusID>5</StatusID>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
@@ -162,9 +164,10 @@
                         </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem ID="64" Created="2014-11-14 23:02:02 +0000" Modified="2015-01-04 18:23:59 +0000" Type="Folder">
+                <BinderItem ID="64" Created="2014-11-14 23:02:02 +0000" Modified="2015-06-27 16:30:16 +0000" Type="Folder">
                     <Title>3</Title>
                     <MetaData>
+                        <StatusID>5</StatusID>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
@@ -187,9 +190,10 @@
                         </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem ID="68" Created="2014-11-16 10:53:41 +0000" Modified="2015-01-04 18:23:56 +0000" Type="Folder">
+                <BinderItem ID="68" Created="2014-11-16 10:53:41 +0000" Modified="2015-06-27 16:30:16 +0000" Type="Folder">
                     <Title>4</Title>
                     <MetaData>
+                        <StatusID>5</StatusID>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
@@ -238,9 +242,10 @@
                         </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem ID="39" Created="2014-11-27 19:26:28 +0000" Modified="2015-01-04 18:23:55 +0000" Type="Folder">
+                <BinderItem ID="39" Created="2014-11-27 19:26:28 +0000" Modified="2015-06-27 16:30:16 +0000" Type="Folder">
                     <Title>5</Title>
                     <MetaData>
+                        <StatusID>5</StatusID>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
@@ -289,9 +294,10 @@
                         </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem ID="115" Created="2015-01-04 19:34:18 +0000" Modified="2015-02-07 22:01:02 +0000" Type="Folder">
+                <BinderItem ID="115" Created="2015-01-04 19:34:18 +0000" Modified="2015-06-27 16:30:23 +0000" Type="Folder">
                     <Title>6</Title>
                     <MetaData>
+                        <StatusID>1</StatusID>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
@@ -308,15 +314,16 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>12835,12835</TextSelection>
+                                <TextSelection>12455,12455</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem ID="117" Created="2015-01-04 19:35:16 +0000" Modified="2015-03-01 20:33:42 +0000" Type="Folder">
+                <BinderItem ID="117" Created="2015-01-04 19:35:16 +0000" Modified="2015-06-27 16:29:58 +0000" Type="Folder">
                     <Title>7</Title>
                     <MetaData>
+                        <StatusID>1</StatusID>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
@@ -324,7 +331,7 @@
                         <Target Type="Words">0</Target>
                     </TextSettings>
                     <Children>
-                        <BinderItem ID="118" Created="2015-01-04 19:35:22 +0000" Modified="2015-06-14 18:50:33 +0000" Type="Text">
+                        <BinderItem ID="118" Created="2015-01-04 19:35:22 +0000" Modified="2015-06-27 17:09:42 +0000" Type="Text">
                             <Title>Exploração Coralyn</Title>
                             <MetaData>
                                 <LabelID>2</LabelID>
@@ -333,7 +340,7 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>32583,32583</TextSelection>
+                                <TextSelection>33032,33032</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
@@ -349,7 +356,7 @@
                         <Target Type="Words">0</Target>
                     </TextSettings>
                     <Children>
-                        <BinderItem ID="143" Created="2015-04-25 16:06:25 +0000" Modified="2015-05-30 14:48:02 +0000" Type="Text">
+                        <BinderItem ID="143" Created="2015-04-25 16:06:25 +0000" Modified="2015-06-27 17:39:13 +0000" Type="Text">
                             <Title>Icarian em Coralyn</Title>
                             <MetaData>
                                 <LabelID>2</LabelID>
@@ -358,7 +365,7 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>8703,8703</TextSelection>
+                                <TextSelection>15803,15803</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
@@ -1902,7 +1909,7 @@
     </StatusSettings>
     <ProjectProperties/>
     <ProjectTargets>
-        <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes">0</DraftTarget>
+        <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes">50000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetDaily="No" DeterminedFromDeadline="No" WritingDays="">0</SessionTarget>
     </ProjectTargets>
     <PrintSettings PaperType="A4" LeftMargin="72.0001" RightMargin="72.0001" TopMargin="72.0001" BottomMargin="72.0001" Orientation="Portrait" Collates="No" ReverseOrder="No"/>
