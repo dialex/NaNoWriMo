@@ -305,7 +305,7 @@
                         <Target Type="Words">0</Target>
                     </TextSettings>
                     <Children>
-                        <BinderItem ID="116" Created="2015-01-04 19:34:22 +0000" Modified="2015-06-21 19:38:19 +0000" Type="Text">
+                        <BinderItem ID="116" Created="2015-01-04 19:34:22 +0000" Modified="2015-06-28 21:16:02 +0000" Type="Text">
                             <Title>Resultados dos cristais</Title>
                             <MetaData>
                                 <LabelID>2</LabelID>
@@ -314,7 +314,7 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>12455,12455</TextSelection>
+                                <TextSelection>13088,13088</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
@@ -331,7 +331,7 @@
                         <Target Type="Words">0</Target>
                     </TextSettings>
                     <Children>
-                        <BinderItem ID="118" Created="2015-01-04 19:35:22 +0000" Modified="2015-06-27 17:09:42 +0000" Type="Text">
+                        <BinderItem ID="118" Created="2015-01-04 19:35:22 +0000" Modified="2015-06-28 21:14:51 +0000" Type="Text">
                             <Title>Exploração Coralyn</Title>
                             <MetaData>
                                 <LabelID>2</LabelID>
@@ -340,7 +340,7 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>23841,23841</TextSelection>
+                                <TextSelection>2182,2182</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
@@ -365,7 +365,7 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>11524,11524</TextSelection>
+                                <TextSelection>9645,9645</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
