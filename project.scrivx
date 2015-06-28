@@ -58,7 +58,7 @@
                         <Target Type="Words">0</Target>
                     </TextSettings>
                     <Children>
-                        <BinderItem ID="15" Created="2012-07-17 19:25:11 +0000" Modified="2015-06-19 18:20:07 +0000" Type="Text">
+                        <BinderItem ID="15" Created="2012-07-17 19:25:11 +0000" Modified="2015-06-28 10:58:04 +0000" Type="Text">
                             <Title>Acordar, Luca, Tio, Ricardo</Title>
                             <MetaData>
                                 <LabelID>2</LabelID>
@@ -67,7 +67,7 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>10543,10656</TextSelection>
+                                <TextSelection>2038,2038</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
@@ -80,7 +80,7 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>10944,10949</TextSelection>
+                                <TextSelection>1974,1974</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
@@ -110,7 +110,7 @@
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="46" Created="2014-11-04 21:59:13 +0000" Modified="2015-06-20 11:39:28 +0000" Type="Text">
+                        <BinderItem ID="46" Created="2014-11-04 21:59:13 +0000" Modified="2015-06-28 15:40:26 +0000" Type="Text">
                             <Title>Conta » Mãe » Conta, Política Luca</Title>
                             <MetaData>
                                 <LabelID>2</LabelID>
@@ -119,11 +119,11 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>109,196</TextSelection>
+                                <TextSelection>6319,6319</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="47" Created="2014-11-05 20:05:03 +0000" Modified="2015-06-20 12:07:17 +0000" Type="Text">
+                        <BinderItem ID="47" Created="2014-11-05 20:05:03 +0000" Modified="2015-06-28 15:39:53 +0000" Type="Text">
                             <Title>Vera, Karl Mesa, Partida</Title>
                             <MetaData>
                                 <LabelID>2</LabelID>
@@ -132,11 +132,11 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>18192,18192</TextSelection>
+                                <TextSelection>4770,4770</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="61" Created="2014-11-12 20:41:09 +0000" Modified="2015-06-20 14:13:51 +0000" Type="Text">
+                        <BinderItem ID="61" Created="2014-11-12 20:41:09 +0000" Modified="2015-06-28 11:09:01 +0000" Type="Text">
                             <Title>Talho</Title>
                             <MetaData>
                                 <LabelID>2</LabelID>
@@ -145,7 +145,7 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>2755,2758</TextSelection>
+                                <TextSelection>1943,1943</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
@@ -158,7 +158,7 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>5345,5345</TextSelection>
+                                <TextSelection>3845,3845</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
@@ -201,7 +201,7 @@
                         <Target Type="Words">0</Target>
                     </TextSettings>
                     <Children>
-                        <BinderItem ID="69" Created="2014-11-16 11:04:11 +0000" Modified="2015-06-20 15:01:42 +0000" Type="Text">
+                        <BinderItem ID="69" Created="2014-11-16 11:04:11 +0000" Modified="2015-06-28 10:47:10 +0000" Type="Text">
                             <Title>Partida</Title>
                             <MetaData>
                                 <LabelID>2</LabelID>
@@ -210,11 +210,11 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>11681,11681</TextSelection>
+                                <TextSelection>1057,1057</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="78" Created="2014-11-16 21:14:10 +0000" Modified="2015-06-21 08:19:46 +0000" Type="Text">
+                        <BinderItem ID="78" Created="2014-11-16 21:14:10 +0000" Modified="2015-06-28 10:57:35 +0000" Type="Text">
                             <Title>Almoço Nelay</Title>
                             <MetaData>
                                 <LabelID>2</LabelID>
@@ -223,7 +223,7 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>15370,15370</TextSelection>
+                                <TextSelection>5377,5377</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
@@ -262,7 +262,7 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>17488,17488</TextSelection>
+                                <TextSelection>816,816</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
@@ -275,7 +275,7 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>8665,8665</TextSelection>
+                                <TextSelection>7845,7845</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
@@ -340,7 +340,7 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>33032,33032</TextSelection>
+                                <TextSelection>23841,23841</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
@@ -365,7 +365,7 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>15803,15803</TextSelection>
+                                <TextSelection>11524,11524</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
@@ -1879,7 +1879,7 @@
         </Collection>
         <Collection Type="RecentSearch" ID="2655DDF6-4AB8-42CB-A433-1CD76FC351D2" Color="0.901961 0.901961 0.980392">
             <Title>Search Results</Title>
-            <SearchSettings Operator="Exact" Type="All" Scope="All" CompileSetting="All" CaseSensitive="No">verdes</SearchSettings>
+            <SearchSettings Operator="WholeWord" Type="All" Scope="All" CompileSetting="All" CaseSensitive="Yes">Cavaleiros</SearchSettings>
         </Collection>
     </Collections>
     <LabelSettings>
