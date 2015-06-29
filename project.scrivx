@@ -43,7 +43,7 @@
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>2784,2784</TextSelection>
+                        <TextSelection>2793,2793</TextSelection>
                         <Target Type="Words">0</Target>
                     </TextSettings>
                 </BinderItem>
@@ -58,8 +58,8 @@
                         <Target Type="Words">0</Target>
                     </TextSettings>
                     <Children>
-                        <BinderItem ID="15" Created="2012-07-17 19:25:11 +0000" Modified="2015-06-28 22:03:30 +0000" Type="Text">
-                            <Title>Acordar, Luca, Tio, Ricardo</Title>
+                        <BinderItem ID="15" Created="2012-07-17 19:25:11 +0000" Modified="2015-06-29 20:57:59 +0000" Type="Text">
+                            <Title>Acordar, Luca, Tio, Rikheart</Title>
                             <MetaData>
                                 <LabelID>2</LabelID>
                                 <StatusID>2</StatusID>
@@ -1767,8 +1767,8 @@
                         <Target Type="Words">0</Target>
                     </TextSettings>
                     <Children>
-                        <BinderItem ID="95" Created="2014-11-30 21:45:16 +0000" Modified="2015-06-21 15:11:30 +0000" Type="Text">
-                            <Title>Ricardo</Title>
+                        <BinderItem ID="95" Created="2014-11-30 21:45:16 +0000" Modified="2015-06-29 20:58:00 +0000" Type="Text">
+                            <Title>Rikheart</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
@@ -1778,8 +1778,8 @@
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="98" Created="2014-11-30 21:45:26 +0000" Modified="2015-06-21 08:22:13 +0000" Type="Text">
-                            <Title>Rodrigo</Title>
+                        <BinderItem ID="98" Created="2014-11-30 21:45:26 +0000" Modified="2015-06-29 20:54:32 +0000" Type="Text">
+                            <Title>Rodric</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
