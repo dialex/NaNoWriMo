@@ -67,7 +67,6 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>728,728</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
@@ -365,7 +364,6 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>0,16</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
@@ -1757,73 +1755,6 @@
                         </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem ID="94" Created="2014-11-30 21:45:06 +0000" Modified="2014-11-30 21:45:11 +0000" Type="Folder">
-                    <Title>Personagens (Desc)</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                        <NotesTextSelection>0,0</NotesTextSelection>
-                    </MetaData>
-                    <TextSettings>
-                        <Target Type="Words">0</Target>
-                    </TextSettings>
-                    <Children>
-                        <BinderItem ID="95" Created="2014-11-30 21:45:16 +0000" Modified="2015-06-29 20:58:00 +0000" Type="Text">
-                            <Title>Rikheart</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>140,140</TextSelection>
-                                <Target Type="Words">0</Target>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem ID="98" Created="2014-11-30 21:45:26 +0000" Modified="2015-06-29 20:54:32 +0000" Type="Text">
-                            <Title>Rodric</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>251,251</TextSelection>
-                                <Target Type="Words">0</Target>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem ID="97" Created="2014-11-30 21:45:24 +0000" Modified="2015-06-29 18:21:54 +0000" Type="Text">
-                            <Title>Dinari</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>378,378</TextSelection>
-                                <Target Type="Words">0</Target>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem ID="112" Created="2014-12-24 18:37:45 +0000" Modified="2015-06-21 15:11:56 +0000" Type="Text">
-                            <Title>Elly</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>98,98</TextSelection>
-                                <Target Type="Words">0</Target>
-                            </TextSettings>
-                        </BinderItem>
-                        <BinderItem ID="154" Created="2015-05-30 14:59:08 +0000" Modified="2015-06-29 18:25:22 +0000" Type="Text">
-                            <Title>Icarian</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <NotesTextSelection>0,0</NotesTextSelection>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>254,254</TextSelection>
-                                <Target Type="Words">0</Target>
-                            </TextSettings>
-                        </BinderItem>
-                    </Children>
-                </BinderItem>
             </Children>
         </BinderItem>
         <BinderItem ID="3" Created="2011-09-28 07:32:44 +0000" Modified="2011-09-28 07:32:44 +0000" Type="Folder">
@@ -1871,6 +1802,73 @@
                 <IncludeInCompile>Yes</IncludeInCompile>
                 <NotesTextSelection>0,0</NotesTextSelection>
             </MetaData>
+            <Children>
+                <BinderItem ID="98" Created="2014-11-30 21:45:26 +0000" Modified="2015-07-09 20:59:59 +0000" Type="Text">
+                    <Title>Rodric</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,332</TextSelection>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="95" Created="2014-11-30 21:45:16 +0000" Modified="2015-07-09 20:58:05 +0000" Type="Text">
+                    <Title>Rikheart</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>179,179</TextSelection>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="97" Created="2014-11-30 21:45:24 +0000" Modified="2015-06-29 18:21:54 +0000" Type="Text">
+                    <Title>Dinari</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>548,548</TextSelection>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="112" Created="2014-12-24 18:37:45 +0000" Modified="2015-07-09 20:54:14 +0000" Type="Text">
+                    <Title>Elly</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,162</TextSelection>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="154" Created="2015-05-30 14:59:08 +0000" Modified="2015-06-29 18:25:22 +0000" Type="Text">
+                    <Title>Icarian</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,912</TextSelection>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="94" Created="2014-11-30 21:45:06 +0000" Modified="2014-11-30 21:45:11 +0000" Type="Folder">
+                    <Title>Personagens (Desc)</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
         </BinderItem>
     </Binder>
     <Collections>
