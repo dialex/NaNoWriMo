@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="1.0" Creator="SCRWIN-1.0.2">
+<ScrivenerProject Template="No" Version="1.0" Creator="SCRWIN-1.8.6.0">
     <Binder>
         <BinderItem ID="12" Created="2007-03-25 20:48:19 +0000" Modified="2011-10-27 08:06:35 +0000" Type="Text">
             <Title>Novel Format</Title>
@@ -13,6 +13,9 @@
                 <TextSelection>2922,2922</TextSelection>
                 <Target Type="Words">0</Target>
             </TextSettings>
+            <CorkboardAndOutliner>
+                <CorkboardSettings/>
+            </CorkboardAndOutliner>
         </BinderItem>
         <BinderItem ID="0" Created="2006-11-04 16:27:29 +0000" Modified="2013-08-11 16:53:59 +0000" Type="DraftFolder">
             <Title>Novel</Title>
@@ -20,6 +23,9 @@
                 <IncludeInCompile>Yes</IncludeInCompile>
                 <NotesTextSelection>0,0</NotesTextSelection>
             </MetaData>
+            <CorkboardAndOutliner>
+                <CorkboardSettings/>
+            </CorkboardAndOutliner>
             <Children>
                 <BinderItem ID="11" Created="2006-11-05 14:29:11 +0000" Modified="2015-06-29 17:52:35 +0000" Type="Text">
                     <Title>Cover</Title>
@@ -33,6 +39,9 @@
                         <TextSelection>90,90</TextSelection>
                         <Target Type="Words">0</Target>
                     </TextSettings>
+                    <CorkboardAndOutliner>
+                        <CorkboardSettings/>
+                    </CorkboardAndOutliner>
                 </BinderItem>
                 <BinderItem ID="13" Created="2012-07-17 19:17:48 +0000" Modified="2015-06-29 17:56:10 +0000" Type="Text">
                     <Title>Prólogo</Title>
@@ -46,6 +55,9 @@
                         <TextSelection>2793,2793</TextSelection>
                         <Target Type="Words">0</Target>
                     </TextSettings>
+                    <CorkboardAndOutliner>
+                        <CorkboardSettings/>
+                    </CorkboardAndOutliner>
                 </BinderItem>
                 <BinderItem ID="31" Created="2013-08-11 17:00:57 +0000" Modified="2015-06-27 16:30:16 +0000" Type="Folder">
                     <Title>1</Title>
@@ -57,6 +69,9 @@
                     <TextSettings>
                         <Target Type="Words">0</Target>
                     </TextSettings>
+                    <CorkboardAndOutliner>
+                        <CorkboardSettings/>
+                    </CorkboardAndOutliner>
                     <Children>
                         <BinderItem ID="15" Created="2012-07-17 19:25:11 +0000" Modified="2015-06-29 20:57:59 +0000" Type="Text">
                             <Title>Acordar, Luca, Tio, Rikheart</Title>
@@ -69,6 +84,9 @@
                             <TextSettings>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
+                            <CorkboardAndOutliner>
+                                <CorkboardSettings/>
+                            </CorkboardAndOutliner>
                         </BinderItem>
                         <BinderItem ID="42" Created="2014-11-01 15:57:09 +0000" Modified="2015-06-29 18:02:36 +0000" Type="Text">
                             <Title>Buraco, Yen</Title>
@@ -82,6 +100,9 @@
                                 <TextSelection>122,122</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
+                            <CorkboardAndOutliner>
+                                <CorkboardSettings/>
+                            </CorkboardAndOutliner>
                         </BinderItem>
                     </Children>
                 </BinderItem>
@@ -95,6 +116,9 @@
                     <TextSettings>
                         <Target Type="Words">0</Target>
                     </TextSettings>
+                    <CorkboardAndOutliner>
+                        <CorkboardSettings/>
+                    </CorkboardAndOutliner>
                     <Children>
                         <BinderItem ID="45" Created="2014-11-03 20:48:41 +0000" Modified="2015-06-20 11:18:03 +0000" Type="Text">
                             <Title>Pesadelo</Title>
@@ -108,6 +132,9 @@
                                 <TextSelection>0,23</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
+                            <CorkboardAndOutliner>
+                                <CorkboardSettings/>
+                            </CorkboardAndOutliner>
                         </BinderItem>
                         <BinderItem ID="46" Created="2014-11-04 21:59:13 +0000" Modified="2015-06-29 18:04:24 +0000" Type="Text">
                             <Title>Conta » Mãe » Conta, Política Luca</Title>
@@ -121,6 +148,9 @@
                                 <TextSelection>3251,3251</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
+                            <CorkboardAndOutliner>
+                                <CorkboardSettings/>
+                            </CorkboardAndOutliner>
                         </BinderItem>
                         <BinderItem ID="47" Created="2014-11-05 20:05:03 +0000" Modified="2015-06-29 18:09:37 +0000" Type="Text">
                             <Title>Vera, Karl Mesa, Partida</Title>
@@ -134,6 +164,9 @@
                                 <TextSelection>14599,14599</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
+                            <CorkboardAndOutliner>
+                                <CorkboardSettings/>
+                            </CorkboardAndOutliner>
                         </BinderItem>
                         <BinderItem ID="61" Created="2014-11-12 20:41:09 +0000" Modified="2015-06-28 11:09:01 +0000" Type="Text">
                             <Title>Talho</Title>
@@ -147,6 +180,9 @@
                                 <TextSelection>1713,1713</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
+                            <CorkboardAndOutliner>
+                                <CorkboardSettings/>
+                            </CorkboardAndOutliner>
                         </BinderItem>
                         <BinderItem ID="62" Created="2014-11-12 22:59:33 +0000" Modified="2015-06-29 18:10:33 +0000" Type="Text">
                             <Title>Viagem Vera-Ric, Rod-Mae</Title>
@@ -160,6 +196,9 @@
                                 <TextSelection>5198,5198</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
+                            <CorkboardAndOutliner>
+                                <CorkboardSettings/>
+                            </CorkboardAndOutliner>
                         </BinderItem>
                     </Children>
                 </BinderItem>
@@ -173,6 +212,9 @@
                     <TextSettings>
                         <Target Type="Words">0</Target>
                     </TextSettings>
+                    <CorkboardAndOutliner>
+                        <CorkboardSettings/>
+                    </CorkboardAndOutliner>
                     <Children>
                         <BinderItem ID="65" Created="2014-11-14 23:02:08 +0000" Modified="2015-06-29 18:11:02 +0000" Type="Text">
                             <Title>Icarian-Ixilak: Edificação torres</Title>
@@ -186,6 +228,9 @@
                                 <TextSelection>0,19</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
+                            <CorkboardAndOutliner>
+                                <CorkboardSettings/>
+                            </CorkboardAndOutliner>
                         </BinderItem>
                     </Children>
                 </BinderItem>
@@ -199,6 +244,9 @@
                     <TextSettings>
                         <Target Type="Words">0</Target>
                     </TextSettings>
+                    <CorkboardAndOutliner>
+                        <CorkboardSettings/>
+                    </CorkboardAndOutliner>
                     <Children>
                         <BinderItem ID="69" Created="2014-11-16 11:04:11 +0000" Modified="2015-06-29 18:12:59 +0000" Type="Text">
                             <Title>Partida</Title>
@@ -212,6 +260,9 @@
                                 <TextSelection>12105,12105</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
+                            <CorkboardAndOutliner>
+                                <CorkboardSettings/>
+                            </CorkboardAndOutliner>
                         </BinderItem>
                         <BinderItem ID="78" Created="2014-11-16 21:14:10 +0000" Modified="2015-06-29 18:16:20 +0000" Type="Text">
                             <Title>Almoço Nelay</Title>
@@ -225,6 +276,9 @@
                                 <TextSelection>15947,15970</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
+                            <CorkboardAndOutliner>
+                                <CorkboardSettings/>
+                            </CorkboardAndOutliner>
                         </BinderItem>
                         <BinderItem ID="34" Created="2014-11-21 23:24:12 +0000" Modified="2015-06-29 18:19:56 +0000" Type="Text">
                             <Title>Chuva, Roxy</Title>
@@ -238,6 +292,9 @@
                                 <TextSelection>37,37</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
+                            <CorkboardAndOutliner>
+                                <CorkboardSettings/>
+                            </CorkboardAndOutliner>
                         </BinderItem>
                     </Children>
                 </BinderItem>
@@ -251,6 +308,9 @@
                     <TextSettings>
                         <Target Type="Words">0</Target>
                     </TextSettings>
+                    <CorkboardAndOutliner>
+                        <CorkboardSettings/>
+                    </CorkboardAndOutliner>
                     <Children>
                         <BinderItem ID="40" Created="2014-11-27 19:26:33 +0000" Modified="2015-06-29 18:22:34 +0000" Type="Text">
                             <Title>Pomar Iessi-Iessi</Title>
@@ -264,6 +324,9 @@
                                 <TextSelection>0,39</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
+                            <CorkboardAndOutliner>
+                                <CorkboardSettings/>
+                            </CorkboardAndOutliner>
                         </BinderItem>
                         <BinderItem ID="99" Created="2014-12-03 22:44:16 +0000" Modified="2015-06-29 18:24:03 +0000" Type="Text">
                             <Title>Chegada Iessi, Taberna, Elly</Title>
@@ -277,6 +340,9 @@
                                 <TextSelection>8199,8199</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
+                            <CorkboardAndOutliner>
+                                <CorkboardSettings/>
+                            </CorkboardAndOutliner>
                         </BinderItem>
                         <BinderItem ID="111" Created="2014-12-24 18:37:12 +0000" Modified="2015-06-29 18:27:14 +0000" Type="Text">
                             <Title>Ladra Elly, Viagem até Coralyn</Title>
@@ -290,6 +356,9 @@
                                 <TextSelection>22574,22574</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
+                            <CorkboardAndOutliner>
+                                <CorkboardSettings/>
+                            </CorkboardAndOutliner>
                         </BinderItem>
                     </Children>
                 </BinderItem>
@@ -303,6 +372,9 @@
                     <TextSettings>
                         <Target Type="Words">0</Target>
                     </TextSettings>
+                    <CorkboardAndOutliner>
+                        <CorkboardSettings/>
+                    </CorkboardAndOutliner>
                     <Children>
                         <BinderItem ID="116" Created="2015-01-04 19:34:22 +0000" Modified="2015-06-29 17:45:45 +0000" Type="Text">
                             <Title>Resultados dos cristais</Title>
@@ -316,6 +388,9 @@
                                 <TextSelection>230,230</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
+                            <CorkboardAndOutliner>
+                                <CorkboardSettings/>
+                            </CorkboardAndOutliner>
                         </BinderItem>
                     </Children>
                 </BinderItem>
@@ -329,6 +404,9 @@
                     <TextSettings>
                         <Target Type="Words">0</Target>
                     </TextSettings>
+                    <CorkboardAndOutliner>
+                        <CorkboardSettings/>
+                    </CorkboardAndOutliner>
                     <Children>
                         <BinderItem ID="118" Created="2015-01-04 19:35:22 +0000" Modified="2015-06-29 18:34:18 +0000" Type="Text">
                             <Title>Exploração Coralyn</Title>
@@ -342,6 +420,9 @@
                                 <TextSelection>33330,33330</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
+                            <CorkboardAndOutliner>
+                                <CorkboardSettings/>
+                            </CorkboardAndOutliner>
                         </BinderItem>
                     </Children>
                 </BinderItem>
@@ -354,6 +435,9 @@
                     <TextSettings>
                         <Target Type="Words">0</Target>
                     </TextSettings>
+                    <CorkboardAndOutliner>
+                        <CorkboardSettings/>
+                    </CorkboardAndOutliner>
                     <Children>
                         <BinderItem ID="143" Created="2015-04-25 16:06:25 +0000" Modified="2015-06-29 18:35:29 +0000" Type="Text">
                             <Title>Icarian em Coralyn</Title>
@@ -366,6 +450,9 @@
                             <TextSettings>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
+                            <CorkboardAndOutliner>
+                                <CorkboardSettings/>
+                            </CorkboardAndOutliner>
                         </BinderItem>
                     </Children>
                 </BinderItem>
@@ -378,6 +465,9 @@
                     <TextSettings>
                         <Target Type="Words">0</Target>
                     </TextSettings>
+                    <CorkboardAndOutliner>
+                        <CorkboardSettings/>
+                    </CorkboardAndOutliner>
                     <Children>
                         <BinderItem ID="152" Created="2015-05-30 14:48:42 +0000" Modified="2015-05-30 14:58:36 +0000" Type="Text">
                             <Title>Viagem Twa Dwet</Title>
@@ -390,6 +480,9 @@
                             <TextSettings>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
+                            <CorkboardAndOutliner>
+                                <CorkboardSettings/>
+                            </CorkboardAndOutliner>
                         </BinderItem>
                     </Children>
                 </BinderItem>
@@ -404,19 +497,24 @@
             <TextSettings>
                 <Target Type="Words">0</Target>
             </TextSettings>
+            <CorkboardAndOutliner>
+                <CorkboardSettings/>
+            </CorkboardAndOutliner>
             <Children>
                 <BinderItem ID="21" Created="2013-08-09 09:48:32 +0000" Modified="2014-11-01 09:15:06 +0000" Type="Text">
                     <Title>Chat Rod+Ric: nuvens</Title>
                     <MetaData>
                         <LabelID>4</LabelID>
                         <StatusID>5</StatusID>
-                        <IncludeInCompile>No</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>0,1806</TextSelection>
+                        <TextSelection>1803,0</TextSelection>
                         <Target Type="Words">0</Target>
                     </TextSettings>
+                    <CorkboardAndOutliner>
+                        <CorkboardSettings/>
+                    </CorkboardAndOutliner>
                 </BinderItem>
                 <BinderItem ID="24" Created="2013-08-09 10:59:31 +0000" Modified="2013-08-11 17:07:14 +0000" Type="Text">
                     <Title>Origem da Magia</Title>
@@ -427,9 +525,12 @@
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>4212,4212</TextSelection>
+                        <TextSelection>8427,0</TextSelection>
                         <Target Type="Words">0</Target>
                     </TextSettings>
+                    <CorkboardAndOutliner>
+                        <CorkboardSettings/>
+                    </CorkboardAndOutliner>
                 </BinderItem>
                 <BinderItem ID="16" Created="2013-08-09 09:48:30 +0000" Modified="2013-08-11 17:07:14 +0000" Type="Text">
                     <Title>Rod+Ric+Nai: Fala com ela</Title>
@@ -440,9 +541,12 @@
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>1584,1584</TextSelection>
+                        <TextSelection>4065,0</TextSelection>
                         <Target Type="Words">0</Target>
                     </TextSettings>
+                    <CorkboardAndOutliner>
+                        <CorkboardSettings/>
+                    </CorkboardAndOutliner>
                 </BinderItem>
                 <BinderItem ID="6" Created="2012-09-03 09:48:04 +0000" Modified="2014-08-31 14:39:59 +0000" Type="Text">
                     <Title>Chat Rod+Nai: amizade</Title>
@@ -453,9 +557,12 @@
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>921,921</TextSelection>
+                        <TextSelection>3653,0</TextSelection>
                         <Target Type="Words">0</Target>
                     </TextSettings>
+                    <CorkboardAndOutliner>
+                        <CorkboardSettings/>
+                    </CorkboardAndOutliner>
                 </BinderItem>
             </Children>
         </BinderItem>
@@ -468,6 +575,9 @@
             <TextSettings>
                 <Target Type="Words">0</Target>
             </TextSettings>
+            <CorkboardAndOutliner>
+                <CorkboardSettings/>
+            </CorkboardAndOutliner>
             <Children>
                 <BinderItem ID="10" Created="2012-10-02 09:44:53 +0000" Modified="2015-05-02 13:27:38 +0000" Type="Text">
                     <Title>Ric+Roxy amantes</Title>
@@ -478,9 +588,12 @@
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>390,390</TextSelection>
+                        <TextSelection>87,87</TextSelection>
                         <Target Type="Words">0</Target>
                     </TextSettings>
+                    <CorkboardAndOutliner>
+                        <CorkboardSettings/>
+                    </CorkboardAndOutliner>
                 </BinderItem>
                 <BinderItem ID="23" Created="2013-08-09 10:30:12 +0000" Modified="2013-08-11 17:07:19 +0000" Type="Text">
                     <Title>Ric cumprimento 2</Title>
@@ -491,8 +604,12 @@
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
+                        <TextSelection>507,0</TextSelection>
                         <Target Type="Words">0</Target>
                     </TextSettings>
+                    <CorkboardAndOutliner>
+                        <CorkboardSettings/>
+                    </CorkboardAndOutliner>
                 </BinderItem>
                 <BinderItem ID="4" Created="2013-08-09 09:46:16 +0000" Modified="2013-08-11 17:07:19 +0000" Type="Text">
                     <Title>Ric cumprimenta</Title>
@@ -503,8 +620,12 @@
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
+                        <TextSelection>781,781</TextSelection>
                         <Target Type="Words">0</Target>
                     </TextSettings>
+                    <CorkboardAndOutliner>
+                        <CorkboardSettings/>
+                    </CorkboardAndOutliner>
                 </BinderItem>
                 <BinderItem ID="7" Created="2012-09-05 13:39:06 +0000" Modified="2013-08-11 17:07:19 +0000" Type="Text">
                     <Title>Nai é ferida</Title>
@@ -515,9 +636,12 @@
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>417,417</TextSelection>
+                        <TextSelection>415,0</TextSelection>
                         <Target Type="Words">0</Target>
                     </TextSettings>
+                    <CorkboardAndOutliner>
+                        <CorkboardSettings/>
+                    </CorkboardAndOutliner>
                 </BinderItem>
                 <BinderItem ID="26" Created="2013-08-09 11:06:39 +0000" Modified="2014-08-23 10:52:05 +0000" Type="Text">
                     <Title>Conto Ninfa</Title>
@@ -528,9 +652,12 @@
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>1476,1476</TextSelection>
+                        <TextSelection>1475,0</TextSelection>
                         <Target Type="Words">0</Target>
                     </TextSettings>
+                    <CorkboardAndOutliner>
+                        <CorkboardSettings/>
+                    </CorkboardAndOutliner>
                 </BinderItem>
                 <BinderItem ID="28" Created="2013-08-11 16:51:20 +0000" Modified="2013-08-11 17:07:19 +0000" Type="Text">
                     <Title>Rod: Depressão</Title>
@@ -541,31 +668,12 @@
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>31,31</TextSelection>
+                        <TextSelection>130,0</TextSelection>
                         <Target Type="Words">0</Target>
                     </TextSettings>
-                </BinderItem>
-                <BinderItem ID="30" Created="2014-11-01 09:10:14 +0000" Modified="2015-06-29 18:29:19 +0000" Type="Text">
-                    <Title>Expo Lanakuv</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                        <NotesTextSelection>0,0</NotesTextSelection>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>2199,2199</TextSelection>
-                        <Target Type="Words">0</Target>
-                    </TextSettings>
-                </BinderItem>
-                <BinderItem ID="126" Created="2015-02-07 19:29:17 +0000" Modified="2015-02-07 22:56:32 +0000" Type="Text">
-                    <Title>Adormeceres diferentes</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                        <NotesTextSelection>0,0</NotesTextSelection>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>150,150</TextSelection>
-                        <Target Type="Words">0</Target>
-                    </TextSettings>
+                    <CorkboardAndOutliner>
+                        <CorkboardSettings/>
+                    </CorkboardAndOutliner>
                 </BinderItem>
             </Children>
         </BinderItem>
@@ -580,6 +688,9 @@
             <TextSettings>
                 <Target Type="Words">0</Target>
             </TextSettings>
+            <CorkboardAndOutliner>
+                <CorkboardSettings/>
+            </CorkboardAndOutliner>
         </BinderItem>
         <BinderItem ID="1" Created="2006-11-04 16:27:29 +0000" Modified="2006-11-04 16:27:29 +0000" Type="ResearchFolder">
             <Title>Research</Title>
@@ -587,8 +698,11 @@
                 <IncludeInCompile>Yes</IncludeInCompile>
                 <NotesTextSelection>0,0</NotesTextSelection>
             </MetaData>
+            <CorkboardAndOutliner>
+                <CorkboardSettings/>
+            </CorkboardAndOutliner>
             <Children>
-                <BinderItem ID="32" Created="2013-08-13 13:39:09 +0000" Modified="2014-11-01 15:14:20 +0000" Type="Folder">
+                <BinderItem ID="32" Created="2013-08-13 13:39:09 +0000" Modified="2015-09-15 19:33:53 +0000" Type="Folder">
                     <Title>Ilustrações</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -597,6 +711,9 @@
                     <TextSettings>
                         <Target Type="Words">0</Target>
                     </TextSettings>
+                    <CorkboardAndOutliner>
+                        <CorkboardSettings/>
+                    </CorkboardAndOutliner>
                     <Children>
                         <BinderItem ID="55" Created="2013-08-13 13:49:35 +0000" Modified="2014-11-01 15:14:04 +0000" Type="Folder">
                             <Title>0</Title>
@@ -607,6 +724,9 @@
                             <TextSettings>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
+                            <CorkboardAndOutliner>
+                                <CorkboardSettings/>
+                            </CorkboardAndOutliner>
                             <Children>
                                 <BinderItem ID="17" Created="2014-11-01 19:25:00 +0000" Modified="2014-11-01 14:32:39 +0000" Type="Image">
                                     <Title>PDVD_035</Title>
@@ -619,6 +739,9 @@
                                     <MediaSettings>
                                         <ImageScalesProportionally>Yes</ImageScalesProportionally>
                                     </MediaSettings>
+                                    <CorkboardAndOutliner>
+                                        <CorkboardSettings/>
+                                    </CorkboardAndOutliner>
                                 </BinderItem>
                                 <BinderItem ID="18" Created="2014-11-01 19:24:56 +0000" Modified="2014-11-01 14:33:05 +0000" Type="Image">
                                     <Title>Misty_Day_In_The_Forest_by_Nitrok</Title>
@@ -631,6 +754,9 @@
                                     <MediaSettings>
                                         <ImageScalesProportionally>Yes</ImageScalesProportionally>
                                     </MediaSettings>
+                                    <CorkboardAndOutliner>
+                                        <CorkboardSettings/>
+                                    </CorkboardAndOutliner>
                                 </BinderItem>
                             </Children>
                         </BinderItem>
@@ -643,6 +769,9 @@
                             <TextSettings>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
+                            <CorkboardAndOutliner>
+                                <CorkboardSettings/>
+                            </CorkboardAndOutliner>
                             <Children>
                                 <BinderItem ID="19" Created="2014-11-01 19:25:01 +0000" Modified="2009-08-31 09:07:43 +0000" Type="Image">
                                     <Title>DSC01602</Title>
@@ -655,6 +784,9 @@
                                     <MediaSettings>
                                         <ImageScalesProportionally>Yes</ImageScalesProportionally>
                                     </MediaSettings>
+                                    <CorkboardAndOutliner>
+                                        <CorkboardSettings/>
+                                    </CorkboardAndOutliner>
                                 </BinderItem>
                                 <BinderItem ID="59" Created="2014-03-16 15:54:44 +0000" Modified="2009-09-06 15:03:20 +0000" Type="Image">
                                     <Title>13_33_2---Traditional-Blacksmith_web</Title>
@@ -667,6 +799,9 @@
                                     <MediaSettings>
                                         <ImageScalesProportionally>Yes</ImageScalesProportionally>
                                     </MediaSettings>
+                                    <CorkboardAndOutliner>
+                                        <CorkboardSettings/>
+                                    </CorkboardAndOutliner>
                                 </BinderItem>
                                 <BinderItem ID="60" Created="2014-03-16 15:54:45 +0000" Modified="2009-09-06 15:03:31 +0000" Type="Image">
                                     <Title>Ferreiro-2B</Title>
@@ -679,6 +814,9 @@
                                     <MediaSettings>
                                         <ImageScalesProportionally>Yes</ImageScalesProportionally>
                                     </MediaSettings>
+                                    <CorkboardAndOutliner>
+                                        <CorkboardSettings/>
+                                    </CorkboardAndOutliner>
                                 </BinderItem>
                                 <BinderItem ID="37" Created="2014-11-01 19:25:02 +0000" Modified="2014-11-01 15:11:53 +0000" Type="Image">
                                     <Title>fantasy_helmet_brass_scales_b</Title>
@@ -691,6 +829,9 @@
                                     <MediaSettings>
                                         <ImageScalesProportionally>Yes</ImageScalesProportionally>
                                     </MediaSettings>
+                                    <CorkboardAndOutliner>
+                                        <CorkboardSettings/>
+                                    </CorkboardAndOutliner>
                                 </BinderItem>
                                 <BinderItem ID="35" Created="2014-11-01 19:25:03 +0000" Modified="2014-11-01 15:13:05 +0000" Type="Image">
                                     <Title>steel-shirt-front</Title>
@@ -703,6 +844,9 @@
                                     <MediaSettings>
                                         <ImageScalesProportionally>Yes</ImageScalesProportionally>
                                     </MediaSettings>
+                                    <CorkboardAndOutliner>
+                                        <CorkboardSettings/>
+                                    </CorkboardAndOutliner>
                                 </BinderItem>
                                 <BinderItem ID="33" Created="2014-11-01 19:25:04 +0000" Modified="2014-11-01 15:13:27 +0000" Type="Image">
                                     <Title>DSCF8921a</Title>
@@ -715,6 +859,9 @@
                                     <MediaSettings>
                                         <ImageScalesProportionally>Yes</ImageScalesProportionally>
                                     </MediaSettings>
+                                    <CorkboardAndOutliner>
+                                        <CorkboardSettings/>
+                                    </CorkboardAndOutliner>
                                 </BinderItem>
                                 <BinderItem ID="43" Created="2014-11-02 10:45:31 +0000" Modified="2013-04-23 09:53:41 +0000" Type="Image">
                                     <Title>2385891927_2aa2aa7136_o</Title>
@@ -727,6 +874,9 @@
                                     <MediaSettings>
                                         <ImageScalesProportionally>Yes</ImageScalesProportionally>
                                     </MediaSettings>
+                                    <CorkboardAndOutliner>
+                                        <CorkboardSettings/>
+                                    </CorkboardAndOutliner>
                                 </BinderItem>
                             </Children>
                         </BinderItem>
@@ -739,6 +889,9 @@
                             <TextSettings>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
+                            <CorkboardAndOutliner>
+                                <CorkboardSettings/>
+                            </CorkboardAndOutliner>
                             <Children>
                                 <BinderItem ID="49" Created="2014-03-16 15:55:00 +0000" Modified="2010-09-05 10:05:49 +0000" Type="Image">
                                     <Title>Rua 1</Title>
@@ -751,6 +904,9 @@
                                     <MediaSettings>
                                         <ImageScalesProportionally>Yes</ImageScalesProportionally>
                                     </MediaSettings>
+                                    <CorkboardAndOutliner>
+                                        <CorkboardSettings/>
+                                    </CorkboardAndOutliner>
                                 </BinderItem>
                                 <BinderItem ID="56" Created="2014-03-16 15:54:46 +0000" Modified="2012-07-17 08:40:39 +0000" Type="Image">
                                     <Title>village</Title>
@@ -763,6 +919,9 @@
                                     <MediaSettings>
                                         <ImageScalesProportionally>Yes</ImageScalesProportionally>
                                     </MediaSettings>
+                                    <CorkboardAndOutliner>
+                                        <CorkboardSettings/>
+                                    </CorkboardAndOutliner>
                                 </BinderItem>
                                 <BinderItem ID="58" Created="2014-03-16 15:54:44 +0000" Modified="2011-05-23 10:16:06 +0000" Type="Image">
                                     <Title>1110031</Title>
@@ -775,6 +934,9 @@
                                     <MediaSettings>
                                         <ImageScalesProportionally>Yes</ImageScalesProportionally>
                                     </MediaSettings>
+                                    <CorkboardAndOutliner>
+                                        <CorkboardSettings/>
+                                    </CorkboardAndOutliner>
                                 </BinderItem>
                                 <BinderItem ID="50" Created="2014-03-16 15:55:00 +0000" Modified="2010-09-10 10:56:11 +0000" Type="Image">
                                     <Title>Interior</Title>
@@ -787,6 +949,9 @@
                                     <MediaSettings>
                                         <ImageScalesProportionally>Yes</ImageScalesProportionally>
                                     </MediaSettings>
+                                    <CorkboardAndOutliner>
+                                        <CorkboardSettings/>
+                                    </CorkboardAndOutliner>
                                 </BinderItem>
                                 <BinderItem ID="51" Created="2014-03-16 15:55:00 +0000" Modified="2010-09-01 19:27:45 +0000" Type="Image">
                                     <Title>Interior Pedra 2</Title>
@@ -799,6 +964,9 @@
                                     <MediaSettings>
                                         <ImageScalesProportionally>Yes</ImageScalesProportionally>
                                     </MediaSettings>
+                                    <CorkboardAndOutliner>
+                                        <CorkboardSettings/>
+                                    </CorkboardAndOutliner>
                                 </BinderItem>
                                 <BinderItem ID="52" Created="2014-03-16 15:55:00 +0000" Modified="2010-09-01 19:08:10 +0000" Type="Image">
                                     <Title>Interior Pedra</Title>
@@ -811,6 +979,9 @@
                                     <MediaSettings>
                                         <ImageScalesProportionally>Yes</ImageScalesProportionally>
                                     </MediaSettings>
+                                    <CorkboardAndOutliner>
+                                        <CorkboardSettings/>
+                                    </CorkboardAndOutliner>
                                 </BinderItem>
                                 <BinderItem ID="57" Created="2014-03-16 15:54:46 +0000" Modified="2008-12-07 11:26:17 +0000" Type="Image">
                                     <Title>Sem títo</Title>
@@ -823,6 +994,9 @@
                                     <MediaSettings>
                                         <ImageScalesProportionally>Yes</ImageScalesProportionally>
                                     </MediaSettings>
+                                    <CorkboardAndOutliner>
+                                        <CorkboardSettings/>
+                                    </CorkboardAndOutliner>
                                 </BinderItem>
                                 <BinderItem ID="53" Created="2014-03-16 15:55:00 +0000" Modified="2010-09-02 10:38:51 +0000" Type="Image">
                                     <Title>Exterior 5</Title>
@@ -835,6 +1009,9 @@
                                     <MediaSettings>
                                         <ImageScalesProportionally>Yes</ImageScalesProportionally>
                                     </MediaSettings>
+                                    <CorkboardAndOutliner>
+                                        <CorkboardSettings/>
+                                    </CorkboardAndOutliner>
                                 </BinderItem>
                                 <BinderItem ID="54" Created="2014-03-16 15:54:59 +0000" Modified="2010-09-10 17:28:01 +0000" Type="Image">
                                     <Title>Bravil</Title>
@@ -847,6 +1024,9 @@
                                     <MediaSettings>
                                         <ImageScalesProportionally>Yes</ImageScalesProportionally>
                                     </MediaSettings>
+                                    <CorkboardAndOutliner>
+                                        <CorkboardSettings/>
+                                    </CorkboardAndOutliner>
                                 </BinderItem>
                                 <BinderItem ID="63" Created="2014-11-12 22:11:04 +0000" Modified="2014-11-12 22:11:04 +0000" Type="Image">
                                     <Title>late-medieval-butcher</Title>
@@ -859,6 +1039,9 @@
                                     <MediaSettings>
                                         <ImageScalesProportionally>Yes</ImageScalesProportionally>
                                     </MediaSettings>
+                                    <CorkboardAndOutliner>
+                                        <CorkboardSettings/>
+                                    </CorkboardAndOutliner>
                                 </BinderItem>
                             </Children>
                         </BinderItem>
@@ -871,6 +1054,9 @@
                             <TextSettings>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
+                            <CorkboardAndOutliner>
+                                <CorkboardSettings/>
+                            </CorkboardAndOutliner>
                             <Children>
                                 <BinderItem ID="67" Created="2014-03-16 15:54:42 +0000" Modified="2003-06-23 16:47:12 +0000" Type="Image">
                                     <Title>hiero</Title>
@@ -883,6 +1069,9 @@
                                     <MediaSettings>
                                         <ImageScalesProportionally>Yes</ImageScalesProportionally>
                                     </MediaSettings>
+                                    <CorkboardAndOutliner>
+                                        <CorkboardSettings/>
+                                    </CorkboardAndOutliner>
                                 </BinderItem>
                             </Children>
                         </BinderItem>
@@ -895,6 +1084,9 @@
                             <TextSettings>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
+                            <CorkboardAndOutliner>
+                                <CorkboardSettings/>
+                            </CorkboardAndOutliner>
                             <Children>
                                 <BinderItem ID="71" Created="2014-03-16 15:54:35 +0000" Modified="2011-05-26 17:12:04 +0000" Type="Image">
                                     <Title>speedpaint_19_by_ben_andrews-d3df8sd</Title>
@@ -907,6 +1099,9 @@
                                     <MediaSettings>
                                         <ImageScalesProportionally>Yes</ImageScalesProportionally>
                                     </MediaSettings>
+                                    <CorkboardAndOutliner>
+                                        <CorkboardSettings/>
+                                    </CorkboardAndOutliner>
                                 </BinderItem>
                                 <BinderItem ID="72" Created="2014-03-16 15:54:44 +0000" Modified="2010-04-09 12:28:22 +0000" Type="Image">
                                     <Title>6uk-betawp3</Title>
@@ -919,6 +1114,9 @@
                                     <MediaSettings>
                                         <ImageScalesProportionally>Yes</ImageScalesProportionally>
                                     </MediaSettings>
+                                    <CorkboardAndOutliner>
+                                        <CorkboardSettings/>
+                                    </CorkboardAndOutliner>
                                 </BinderItem>
                                 <BinderItem ID="77" Created="2014-03-16 15:54:35 +0000" Modified="2013-08-09 09:22:18 +0000" Type="Image">
                                     <Title>The land tower</Title>
@@ -931,6 +1129,9 @@
                                     <MediaSettings>
                                         <ImageScalesProportionally>Yes</ImageScalesProportionally>
                                     </MediaSettings>
+                                    <CorkboardAndOutliner>
+                                        <CorkboardSettings/>
+                                    </CorkboardAndOutliner>
                                 </BinderItem>
                                 <BinderItem ID="74" Created="2014-03-16 15:54:34 +0000" Modified="2010-05-12 09:21:54 +0000" Type="Image">
                                     <Title>0247232-01</Title>
@@ -943,6 +1144,9 @@
                                     <MediaSettings>
                                         <ImageScalesProportionally>Yes</ImageScalesProportionally>
                                     </MediaSettings>
+                                    <CorkboardAndOutliner>
+                                        <CorkboardSettings/>
+                                    </CorkboardAndOutliner>
                                 </BinderItem>
                                 <BinderItem ID="75" Created="2014-03-16 15:54:35 +0000" Modified="2009-09-25 14:12:32 +0000" Type="Image">
                                     <Title>palouse</Title>
@@ -955,6 +1159,9 @@
                                     <MediaSettings>
                                         <ImageScalesProportionally>Yes</ImageScalesProportionally>
                                     </MediaSettings>
+                                    <CorkboardAndOutliner>
+                                        <CorkboardSettings/>
+                                    </CorkboardAndOutliner>
                                 </BinderItem>
                                 <BinderItem ID="76" Created="2014-03-16 15:54:35 +0000" Modified="2013-08-07 14:42:37 +0000" Type="Image">
                                     <Title>to_high_region_by_ninjatic-d6fqf9y</Title>
@@ -967,6 +1174,9 @@
                                     <MediaSettings>
                                         <ImageScalesProportionally>Yes</ImageScalesProportionally>
                                     </MediaSettings>
+                                    <CorkboardAndOutliner>
+                                        <CorkboardSettings/>
+                                    </CorkboardAndOutliner>
                                 </BinderItem>
                                 <BinderItem ID="79" Created="2014-03-16 15:54:44 +0000" Modified="2009-09-07 13:02:59 +0000" Type="Image">
                                     <Title>3277_800x600</Title>
@@ -979,6 +1189,9 @@
                                     <MediaSettings>
                                         <ImageScalesProportionally>Yes</ImageScalesProportionally>
                                     </MediaSettings>
+                                    <CorkboardAndOutliner>
+                                        <CorkboardSettings/>
+                                    </CorkboardAndOutliner>
                                 </BinderItem>
                                 <BinderItem ID="14" Created="2014-11-20 19:22:04 +0000" Modified="2014-11-20 19:22:04 +0000" Type="Image">
                                     <Title>cumulus</Title>
@@ -991,6 +1204,9 @@
                                     <MediaSettings>
                                         <ImageScalesProportionally>Yes</ImageScalesProportionally>
                                     </MediaSettings>
+                                    <CorkboardAndOutliner>
+                                        <CorkboardSettings/>
+                                    </CorkboardAndOutliner>
                                 </BinderItem>
                                 <BinderItem ID="22" Created="2014-03-16 15:55:00 +0000" Modified="2010-09-02 10:21:43 +0000" Type="Image">
                                     <Title>Exterior 4</Title>
@@ -1003,6 +1219,9 @@
                                     <MediaSettings>
                                         <ImageScalesProportionally>Yes</ImageScalesProportionally>
                                     </MediaSettings>
+                                    <CorkboardAndOutliner>
+                                        <CorkboardSettings/>
+                                    </CorkboardAndOutliner>
                                 </BinderItem>
                                 <BinderItem ID="80" Created="2014-03-16 15:54:59 +0000" Modified="2010-09-10 17:28:01 +0000" Type="Image">
                                     <Title>Bravil</Title>
@@ -1015,6 +1234,9 @@
                                     <MediaSettings>
                                         <ImageScalesProportionally>Yes</ImageScalesProportionally>
                                     </MediaSettings>
+                                    <CorkboardAndOutliner>
+                                        <CorkboardSettings/>
+                                    </CorkboardAndOutliner>
                                 </BinderItem>
                                 <BinderItem ID="20" Created="2014-11-23 14:33:21 +0000" Modified="2014-11-23 14:33:21 +0000" Type="Image">
                                     <Title>caveMouth</Title>
@@ -1027,6 +1249,9 @@
                                     <MediaSettings>
                                         <ImageScalesProportionally>Yes</ImageScalesProportionally>
                                     </MediaSettings>
+                                    <CorkboardAndOutliner>
+                                        <CorkboardSettings/>
+                                    </CorkboardAndOutliner>
                                 </BinderItem>
                                 <BinderItem ID="36" Created="2014-11-23 15:10:48 +0000" Modified="2014-11-23 15:10:48 +0000" Type="Image">
                                     <Title>800px-Dolmen_de_Axeitos</Title>
@@ -1039,6 +1264,9 @@
                                     <MediaSettings>
                                         <ImageScalesProportionally>Yes</ImageScalesProportionally>
                                     </MediaSettings>
+                                    <CorkboardAndOutliner>
+                                        <CorkboardSettings/>
+                                    </CorkboardAndOutliner>
                                 </BinderItem>
                                 <BinderItem ID="84" Created="2014-11-29 15:22:04 +0000" Modified="2014-11-29 15:22:05 +0000" Type="Image">
                                     <Title>fiora_by_obywatelsowa-d7y5ceo</Title>
@@ -1051,6 +1279,9 @@
                                     <MediaSettings>
                                         <ImageScalesProportionally>Yes</ImageScalesProportionally>
                                     </MediaSettings>
+                                    <CorkboardAndOutliner>
+                                        <CorkboardSettings/>
+                                    </CorkboardAndOutliner>
                                 </BinderItem>
                             </Children>
                         </BinderItem>
@@ -1063,6 +1294,9 @@
                             <TextSettings>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
+                            <CorkboardAndOutliner>
+                                <CorkboardSettings/>
+                            </CorkboardAndOutliner>
                             <Children>
                                 <BinderItem ID="73" Created="2014-11-29 14:11:35 +0000" Modified="2014-11-29 14:11:35 +0000" Type="Image">
                                     <Title>to_high_region_by_ninjatic-d6fqf9y</Title>
@@ -1075,6 +1309,9 @@
                                     <MediaSettings>
                                         <ImageScalesProportionally>Yes</ImageScalesProportionally>
                                     </MediaSettings>
+                                    <CorkboardAndOutliner>
+                                        <CorkboardSettings/>
+                                    </CorkboardAndOutliner>
                                 </BinderItem>
                                 <BinderItem ID="82" Created="2014-03-16 15:54:35 +0000" Modified="2013-09-01 10:56:45 +0000" Type="Image">
                                     <Title>DSC_0341</Title>
@@ -1087,6 +1324,9 @@
                                     <MediaSettings>
                                         <ImageScalesProportionally>Yes</ImageScalesProportionally>
                                     </MediaSettings>
+                                    <CorkboardAndOutliner>
+                                        <CorkboardSettings/>
+                                    </CorkboardAndOutliner>
                                 </BinderItem>
                                 <BinderItem ID="83" Created="2014-03-16 15:54:41 +0000" Modified="2010-09-12 15:40:26 +0000" Type="Image">
                                     <Title>Cottage Garden</Title>
@@ -1099,6 +1339,9 @@
                                     <MediaSettings>
                                         <ImageScalesProportionally>Yes</ImageScalesProportionally>
                                     </MediaSettings>
+                                    <CorkboardAndOutliner>
+                                        <CorkboardSettings/>
+                                    </CorkboardAndOutliner>
                                 </BinderItem>
                                 <BinderItem ID="81" Created="2014-03-16 15:54:44 +0000" Modified="2009-12-25 16:11:53 +0000" Type="Image">
                                     <Title>3387-turf-houses</Title>
@@ -1111,6 +1354,9 @@
                                     <MediaSettings>
                                         <ImageScalesProportionally>Yes</ImageScalesProportionally>
                                     </MediaSettings>
+                                    <CorkboardAndOutliner>
+                                        <CorkboardSettings/>
+                                    </CorkboardAndOutliner>
                                 </BinderItem>
                                 <BinderItem ID="85" Created="2014-11-29 18:15:34 +0000" Modified="2014-11-29 18:15:35 +0000" Type="Image">
                                     <Title>gandalf-the-hobbit-the-shire-1729452-1536x758</Title>
@@ -1123,6 +1369,9 @@
                                     <MediaSettings>
                                         <ImageScalesProportionally>Yes</ImageScalesProportionally>
                                     </MediaSettings>
+                                    <CorkboardAndOutliner>
+                                        <CorkboardSettings/>
+                                    </CorkboardAndOutliner>
                                 </BinderItem>
                                 <BinderItem ID="86" Created="2014-11-29 18:15:51 +0000" Modified="2014-11-29 18:15:51 +0000" Type="Image">
                                     <Title>The-Lord-of-the-Rings-The-Hobbit-The-Shire-Bag-End-_24400-15</Title>
@@ -1135,6 +1384,9 @@
                                     <MediaSettings>
                                         <ImageScalesProportionally>Yes</ImageScalesProportionally>
                                     </MediaSettings>
+                                    <CorkboardAndOutliner>
+                                        <CorkboardSettings/>
+                                    </CorkboardAndOutliner>
                                 </BinderItem>
                                 <BinderItem ID="87" Created="2014-11-29 19:11:07 +0000" Modified="2014-11-29 19:11:08 +0000" Type="Image">
                                     <Title>Border_Collie_600</Title>
@@ -1147,6 +1399,9 @@
                                     <MediaSettings>
                                         <ImageScalesProportionally>Yes</ImageScalesProportionally>
                                     </MediaSettings>
+                                    <CorkboardAndOutliner>
+                                        <CorkboardSettings/>
+                                    </CorkboardAndOutliner>
                                 </BinderItem>
                                 <BinderItem ID="93" Created="2014-11-30 21:35:34 +0000" Modified="2014-11-30 21:35:35 +0000" Type="Image">
                                     <Title>7c3e6c50d78259d530b7d703501c8c99</Title>
@@ -1159,6 +1414,9 @@
                                     <MediaSettings>
                                         <ImageScalesProportionally>Yes</ImageScalesProportionally>
                                     </MediaSettings>
+                                    <CorkboardAndOutliner>
+                                        <CorkboardSettings/>
+                                    </CorkboardAndOutliner>
                                 </BinderItem>
                                 <BinderItem ID="91" Created="2014-11-30 18:24:28 +0000" Modified="2014-11-30 18:24:29 +0000" Type="Image">
                                     <Title>es5s-nord-farmer-male</Title>
@@ -1171,6 +1429,9 @@
                                     <MediaSettings>
                                         <ImageScalesProportionally>Yes</ImageScalesProportionally>
                                     </MediaSettings>
+                                    <CorkboardAndOutliner>
+                                        <CorkboardSettings/>
+                                    </CorkboardAndOutliner>
                                 </BinderItem>
                                 <BinderItem ID="92" Created="2014-11-30 18:24:08 +0000" Modified="2014-11-30 18:24:08 +0000" Type="Image">
                                     <Title>skyrim_equipment_clothes_farmer_clothes_04_front_by_adam_adamowicz</Title>
@@ -1183,6 +1444,9 @@
                                     <MediaSettings>
                                         <ImageScalesProportionally>Yes</ImageScalesProportionally>
                                     </MediaSettings>
+                                    <CorkboardAndOutliner>
+                                        <CorkboardSettings/>
+                                    </CorkboardAndOutliner>
                                 </BinderItem>
                                 <BinderItem ID="88" Created="2014-11-30 18:20:26 +0000" Modified="2014-11-30 18:20:27 +0000" Type="Image">
                                     <Title>apple-orchard</Title>
@@ -1195,6 +1459,9 @@
                                     <MediaSettings>
                                         <ImageScalesProportionally>Yes</ImageScalesProportionally>
                                     </MediaSettings>
+                                    <CorkboardAndOutliner>
+                                        <CorkboardSettings/>
+                                    </CorkboardAndOutliner>
                                 </BinderItem>
                                 <BinderItem ID="89" Created="2014-11-30 18:20:30 +0000" Modified="2014-11-30 18:20:30 +0000" Type="Image">
                                     <Title>d5962-appleorchard-(1)</Title>
@@ -1207,6 +1474,9 @@
                                     <MediaSettings>
                                         <ImageScalesProportionally>Yes</ImageScalesProportionally>
                                     </MediaSettings>
+                                    <CorkboardAndOutliner>
+                                        <CorkboardSettings/>
+                                    </CorkboardAndOutliner>
                                 </BinderItem>
                                 <BinderItem ID="90" Created="2014-11-30 18:23:16 +0000" Modified="2014-11-30 18:23:17 +0000" Type="Image">
                                     <Title>FarmAnimalBanner</Title>
@@ -1219,6 +1489,9 @@
                                     <MediaSettings>
                                         <ImageScalesProportionally>Yes</ImageScalesProportionally>
                                     </MediaSettings>
+                                    <CorkboardAndOutliner>
+                                        <CorkboardSettings/>
+                                    </CorkboardAndOutliner>
                                 </BinderItem>
                                 <BinderItem ID="103" Created="2014-03-16 15:54:45 +0000" Modified="2014-12-08 21:21:36 +0000" Type="Image">
                                     <Title>Fable_Village_by_skybolt</Title>
@@ -1232,6 +1505,9 @@
                                         <ImageScaleFactor>0.71</ImageScaleFactor>
                                         <ImageScalesProportionally>No</ImageScalesProportionally>
                                     </MediaSettings>
+                                    <CorkboardAndOutliner>
+                                        <CorkboardSettings/>
+                                    </CorkboardAndOutliner>
                                 </BinderItem>
                                 <BinderItem ID="105" Created="2014-12-08 22:16:27 +0000" Modified="2014-12-08 22:17:34 +0000" Type="Image">
                                     <Title>latest</Title>
@@ -1245,6 +1521,9 @@
                                         <ImageScaleFactor>0.71</ImageScaleFactor>
                                         <ImageScalesProportionally>No</ImageScalesProportionally>
                                     </MediaSettings>
+                                    <CorkboardAndOutliner>
+                                        <CorkboardSettings/>
+                                    </CorkboardAndOutliner>
                                 </BinderItem>
                                 <BinderItem ID="106" Created="2014-12-08 22:16:32 +0000" Modified="2014-12-08 22:16:32 +0000" Type="Image">
                                     <Title>6364446931_7a3f2c591e_z</Title>
@@ -1257,6 +1536,9 @@
                                     <MediaSettings>
                                         <ImageScalesProportionally>Yes</ImageScalesProportionally>
                                     </MediaSettings>
+                                    <CorkboardAndOutliner>
+                                        <CorkboardSettings/>
+                                    </CorkboardAndOutliner>
                                 </BinderItem>
                                 <BinderItem ID="107" Created="2014-12-14 11:45:42 +0000" Modified="2014-12-14 11:45:43 +0000" Type="Image">
                                     <Title>Typical-Tavern</Title>
@@ -1269,6 +1551,9 @@
                                     <MediaSettings>
                                         <ImageScalesProportionally>Yes</ImageScalesProportionally>
                                     </MediaSettings>
+                                    <CorkboardAndOutliner>
+                                        <CorkboardSettings/>
+                                    </CorkboardAndOutliner>
                                 </BinderItem>
                                 <BinderItem ID="108" Created="2014-12-14 11:47:46 +0000" Modified="2014-12-14 11:47:46 +0000" Type="Image">
                                     <Title>tavern_by_hunqwert-d33der1</Title>
@@ -1281,6 +1566,9 @@
                                     <MediaSettings>
                                         <ImageScalesProportionally>Yes</ImageScalesProportionally>
                                     </MediaSettings>
+                                    <CorkboardAndOutliner>
+                                        <CorkboardSettings/>
+                                    </CorkboardAndOutliner>
                                 </BinderItem>
                                 <BinderItem ID="119" Created="2015-01-11 12:44:37 +0000" Modified="2015-01-11 12:44:37 +0000" Type="Image">
                                     <Title>unbranded-value-costume-serving-wench</Title>
@@ -1293,6 +1581,9 @@
                                     <MediaSettings>
                                         <ImageScalesProportionally>Yes</ImageScalesProportionally>
                                     </MediaSettings>
+                                    <CorkboardAndOutliner>
+                                        <CorkboardSettings/>
+                                    </CorkboardAndOutliner>
                                 </BinderItem>
                                 <BinderItem ID="120" Created="2015-01-11 12:44:48 +0000" Modified="2015-01-11 12:44:49 +0000" Type="Image">
                                     <Title>8197ef6a8627cd587375f1eafe86cf80</Title>
@@ -1305,6 +1596,9 @@
                                     <MediaSettings>
                                         <ImageScalesProportionally>Yes</ImageScalesProportionally>
                                     </MediaSettings>
+                                    <CorkboardAndOutliner>
+                                        <CorkboardSettings/>
+                                    </CorkboardAndOutliner>
                                 </BinderItem>
                                 <BinderItem ID="109" Created="2014-03-16 15:54:51 +0000" Modified="2014-12-24 17:42:04 +0000" Type="Image">
                                     <Title>Elly</Title>
@@ -1317,6 +1611,9 @@
                                     <MediaSettings>
                                         <ImageScalesProportionally>Yes</ImageScalesProportionally>
                                     </MediaSettings>
+                                    <CorkboardAndOutliner>
+                                        <CorkboardSettings/>
+                                    </CorkboardAndOutliner>
                                 </BinderItem>
                                 <BinderItem ID="114" Created="2014-12-24 19:10:51 +0000" Modified="2014-12-24 19:10:52 +0000" Type="Image">
                                     <Title>1024px-Hjerim_-_Child's_Bedroom</Title>
@@ -1329,6 +1626,9 @@
                                     <MediaSettings>
                                         <ImageScalesProportionally>Yes</ImageScalesProportionally>
                                     </MediaSettings>
+                                    <CorkboardAndOutliner>
+                                        <CorkboardSettings/>
+                                    </CorkboardAndOutliner>
                                 </BinderItem>
                                 <BinderItem ID="101" Created="2014-03-16 15:54:59 +0000" Modified="2010-09-10 17:28:01 +0000" Type="Image">
                                     <Title>Bravil</Title>
@@ -1341,6 +1641,9 @@
                                     <MediaSettings>
                                         <ImageScalesProportionally>Yes</ImageScalesProportionally>
                                     </MediaSettings>
+                                    <CorkboardAndOutliner>
+                                        <CorkboardSettings/>
+                                    </CorkboardAndOutliner>
                                 </BinderItem>
                                 <BinderItem ID="102" Created="2014-03-16 15:54:59 +0000" Modified="2010-09-04 10:57:06 +0000" Type="Image">
                                     <Title>Comunidade Pesqueira</Title>
@@ -1353,6 +1656,9 @@
                                     <MediaSettings>
                                         <ImageScalesProportionally>Yes</ImageScalesProportionally>
                                     </MediaSettings>
+                                    <CorkboardAndOutliner>
+                                        <CorkboardSettings/>
+                                    </CorkboardAndOutliner>
                                 </BinderItem>
                                 <BinderItem ID="100" Created="2014-11-11 22:10:57 +0000" Modified="2014-12-26 18:01:09 +0000" Type="Image">
                                     <Title>20141108_Carrasqueira - 141108 - 09</Title>
@@ -1366,6 +1672,9 @@
                                         <ImageScaleFactor>0.97</ImageScaleFactor>
                                         <ImageScalesProportionally>Yes</ImageScalesProportionally>
                                     </MediaSettings>
+                                    <CorkboardAndOutliner>
+                                        <CorkboardSettings/>
+                                    </CorkboardAndOutliner>
                                 </BinderItem>
                                 <BinderItem ID="96" Created="2014-12-26 17:17:16 +0000" Modified="2014-12-26 17:17:16 +0000" Type="Image">
                                     <Title>Northern_Maiden</Title>
@@ -1378,6 +1687,9 @@
                                     <MediaSettings>
                                         <ImageScalesProportionally>Yes</ImageScalesProportionally>
                                     </MediaSettings>
+                                    <CorkboardAndOutliner>
+                                        <CorkboardSettings/>
+                                    </CorkboardAndOutliner>
                                 </BinderItem>
                                 <BinderItem ID="110" Created="2014-12-26 19:09:07 +0000" Modified="2014-12-28 22:08:46 +0000" Type="Image">
                                     <Title>caravela</Title>
@@ -1391,6 +1703,9 @@
                                         <ImageScaleFactor>0.97</ImageScaleFactor>
                                         <ImageScalesProportionally>Yes</ImageScalesProportionally>
                                     </MediaSettings>
+                                    <CorkboardAndOutliner>
+                                        <CorkboardSettings/>
+                                    </CorkboardAndOutliner>
                                 </BinderItem>
                                 <BinderItem ID="104" Created="2014-12-08 20:56:00 +0000" Modified="2014-12-26 19:09:42 +0000" Type="Image">
                                     <Title>Iessi_Vanguard_Outpost_by_TomScholes</Title>
@@ -1404,6 +1719,9 @@
                                         <ImageScaleFactor>0.85</ImageScaleFactor>
                                         <ImageScalesProportionally>Yes</ImageScalesProportionally>
                                     </MediaSettings>
+                                    <CorkboardAndOutliner>
+                                        <CorkboardSettings/>
+                                    </CorkboardAndOutliner>
                                 </BinderItem>
                             </Children>
                         </BinderItem>
@@ -1416,6 +1734,9 @@
                             <TextSettings>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
+                            <CorkboardAndOutliner>
+                                <CorkboardSettings/>
+                            </CorkboardAndOutliner>
                             <Children>
                                 <BinderItem ID="124" Created="2015-01-11 14:38:12 +0000" Modified="2015-01-11 14:38:13 +0000" Type="Image">
                                     <Title>latest</Title>
@@ -1428,6 +1749,9 @@
                                     <MediaSettings>
                                         <ImageScalesProportionally>Yes</ImageScalesProportionally>
                                     </MediaSettings>
+                                    <CorkboardAndOutliner>
+                                        <CorkboardSettings/>
+                                    </CorkboardAndOutliner>
                                 </BinderItem>
                                 <BinderItem ID="125" Created="2014-03-16 15:54:42 +0000" Modified="2008-07-16 09:29:18 +0000" Type="Image">
                                     <Title>orzhov_styleimage4</Title>
@@ -1440,6 +1764,9 @@
                                     <MediaSettings>
                                         <ImageScalesProportionally>Yes</ImageScalesProportionally>
                                     </MediaSettings>
+                                    <CorkboardAndOutliner>
+                                        <CorkboardSettings/>
+                                    </CorkboardAndOutliner>
                                 </BinderItem>
                                 <BinderItem ID="122" Created="2015-01-11 14:38:19 +0000" Modified="2015-01-11 14:38:19 +0000" Type="Image">
                                     <Title>latest (1)</Title>
@@ -1452,6 +1779,9 @@
                                     <MediaSettings>
                                         <ImageScalesProportionally>Yes</ImageScalesProportionally>
                                     </MediaSettings>
+                                    <CorkboardAndOutliner>
+                                        <CorkboardSettings/>
+                                    </CorkboardAndOutliner>
                                 </BinderItem>
                                 <BinderItem ID="123" Created="2015-01-11 14:38:23 +0000" Modified="2015-01-11 14:38:25 +0000" Type="Image">
                                     <Title>latest (3)</Title>
@@ -1464,6 +1794,9 @@
                                     <MediaSettings>
                                         <ImageScalesProportionally>Yes</ImageScalesProportionally>
                                     </MediaSettings>
+                                    <CorkboardAndOutliner>
+                                        <CorkboardSettings/>
+                                    </CorkboardAndOutliner>
                                 </BinderItem>
                                 <BinderItem ID="121" Created="2015-01-11 14:42:05 +0000" Modified="2015-01-11 14:42:05 +0000" Type="Image">
                                     <Title>boilers</Title>
@@ -1476,6 +1809,9 @@
                                     <MediaSettings>
                                         <ImageScalesProportionally>Yes</ImageScalesProportionally>
                                     </MediaSettings>
+                                    <CorkboardAndOutliner>
+                                        <CorkboardSettings/>
+                                    </CorkboardAndOutliner>
                                 </BinderItem>
                                 <BinderItem ID="113" Created="2015-02-01 12:24:33 +0000" Modified="2015-02-01 12:24:34 +0000" Type="Image">
                                     <Title>estambul</Title>
@@ -1488,6 +1824,9 @@
                                     <MediaSettings>
                                         <ImageScalesProportionally>Yes</ImageScalesProportionally>
                                     </MediaSettings>
+                                    <CorkboardAndOutliner>
+                                        <CorkboardSettings/>
+                                    </CorkboardAndOutliner>
                                 </BinderItem>
                             </Children>
                         </BinderItem>
@@ -1500,6 +1839,9 @@
                             <TextSettings>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
+                            <CorkboardAndOutliner>
+                                <CorkboardSettings/>
+                            </CorkboardAndOutliner>
                             <Children>
                                 <BinderItem ID="129" Created="2014-03-16 15:54:43 +0000" Modified="2013-08-13 11:27:36 +0000" Type="Image">
                                     <Title>10290d6cb3055d855c66b735f9fc51ca-d44pif9</Title>
@@ -1512,6 +1854,9 @@
                                     <MediaSettings>
                                         <ImageScalesProportionally>Yes</ImageScalesProportionally>
                                     </MediaSettings>
+                                    <CorkboardAndOutliner>
+                                        <CorkboardSettings/>
+                                    </CorkboardAndOutliner>
                                 </BinderItem>
                                 <BinderItem ID="130" Created="2014-03-16 15:54:43 +0000" Modified="2013-08-13 11:25:54 +0000" Type="Image">
                                     <Title>estatua</Title>
@@ -1524,6 +1869,9 @@
                                     <MediaSettings>
                                         <ImageScalesProportionally>Yes</ImageScalesProportionally>
                                     </MediaSettings>
+                                    <CorkboardAndOutliner>
+                                        <CorkboardSettings/>
+                                    </CorkboardAndOutliner>
                                 </BinderItem>
                                 <BinderItem ID="131" Created="2014-03-16 15:54:59 +0000" Modified="2010-09-10 17:28:01 +0000" Type="Image">
                                     <Title>Bravil</Title>
@@ -1536,6 +1884,9 @@
                                     <MediaSettings>
                                         <ImageScalesProportionally>Yes</ImageScalesProportionally>
                                     </MediaSettings>
+                                    <CorkboardAndOutliner>
+                                        <CorkboardSettings/>
+                                    </CorkboardAndOutliner>
                                 </BinderItem>
                                 <BinderItem ID="132" Created="2014-12-26 17:17:16 +0000" Modified="2014-12-26 17:17:16 +0000" Type="Image">
                                     <Title>Northern_Maiden</Title>
@@ -1548,6 +1899,9 @@
                                     <MediaSettings>
                                         <ImageScalesProportionally>Yes</ImageScalesProportionally>
                                     </MediaSettings>
+                                    <CorkboardAndOutliner>
+                                        <CorkboardSettings/>
+                                    </CorkboardAndOutliner>
                                 </BinderItem>
                                 <BinderItem ID="136" Created="2015-02-14 17:09:26 +0000" Modified="2015-02-14 17:09:26 +0000" Type="Image">
                                     <Title>f15ddee533ac460febbd4af10a562602-d4axuzq</Title>
@@ -1560,6 +1914,9 @@
                                     <MediaSettings>
                                         <ImageScalesProportionally>Yes</ImageScalesProportionally>
                                     </MediaSettings>
+                                    <CorkboardAndOutliner>
+                                        <CorkboardSettings/>
+                                    </CorkboardAndOutliner>
                                 </BinderItem>
                                 <BinderItem ID="137" Created="2015-02-14 17:09:35 +0000" Modified="2015-02-14 17:09:35 +0000" Type="Image">
                                     <Title>3a40fc7ebbab4598b83c4f2343b277ad-d4acsef</Title>
@@ -1572,6 +1929,9 @@
                                     <MediaSettings>
                                         <ImageScalesProportionally>Yes</ImageScalesProportionally>
                                     </MediaSettings>
+                                    <CorkboardAndOutliner>
+                                        <CorkboardSettings/>
+                                    </CorkboardAndOutliner>
                                 </BinderItem>
                                 <BinderItem ID="134" Created="2015-02-14 17:07:15 +0000" Modified="2015-02-14 17:07:15 +0000" Type="Image">
                                     <Title>the_foreign_market_by_shutupandwhisper-d6v59li</Title>
@@ -1584,6 +1944,9 @@
                                     <MediaSettings>
                                         <ImageScalesProportionally>Yes</ImageScalesProportionally>
                                     </MediaSettings>
+                                    <CorkboardAndOutliner>
+                                        <CorkboardSettings/>
+                                    </CorkboardAndOutliner>
                                 </BinderItem>
                                 <BinderItem ID="135" Created="2015-02-14 17:05:35 +0000" Modified="2015-02-14 17:05:35 +0000" Type="Image">
                                     <Title>the-witcher-3-wild-hunt-8</Title>
@@ -1596,6 +1959,9 @@
                                     <MediaSettings>
                                         <ImageScalesProportionally>Yes</ImageScalesProportionally>
                                     </MediaSettings>
+                                    <CorkboardAndOutliner>
+                                        <CorkboardSettings/>
+                                    </CorkboardAndOutliner>
                                 </BinderItem>
                                 <BinderItem ID="133" Created="2015-02-14 17:06:05 +0000" Modified="2015-02-14 17:06:05 +0000" Type="Image">
                                     <Title>Manavgat-Market-turkey-404833_1920_1440</Title>
@@ -1608,6 +1974,9 @@
                                     <MediaSettings>
                                         <ImageScalesProportionally>Yes</ImageScalesProportionally>
                                     </MediaSettings>
+                                    <CorkboardAndOutliner>
+                                        <CorkboardSettings/>
+                                    </CorkboardAndOutliner>
                                 </BinderItem>
                                 <BinderItem ID="139" Created="2015-03-15 16:24:35 +0000" Modified="2015-03-15 16:24:36 +0000" Type="Image">
                                     <Title>prisao (2)</Title>
@@ -1620,6 +1989,9 @@
                                     <MediaSettings>
                                         <ImageScalesProportionally>Yes</ImageScalesProportionally>
                                     </MediaSettings>
+                                    <CorkboardAndOutliner>
+                                        <CorkboardSettings/>
+                                    </CorkboardAndOutliner>
                                 </BinderItem>
                                 <BinderItem ID="140" Created="2015-03-15 16:25:16 +0000" Modified="2015-03-15 16:25:17 +0000" Type="Image">
                                     <Title>prisao (3)</Title>
@@ -1632,6 +2004,9 @@
                                     <MediaSettings>
                                         <ImageScalesProportionally>Yes</ImageScalesProportionally>
                                     </MediaSettings>
+                                    <CorkboardAndOutliner>
+                                        <CorkboardSettings/>
+                                    </CorkboardAndOutliner>
                                 </BinderItem>
                                 <BinderItem ID="138" Created="2015-03-15 16:26:00 +0000" Modified="2015-03-15 16:26:00 +0000" Type="Image">
                                     <Title>prisao (1)</Title>
@@ -1644,6 +2019,9 @@
                                     <MediaSettings>
                                         <ImageScalesProportionally>Yes</ImageScalesProportionally>
                                     </MediaSettings>
+                                    <CorkboardAndOutliner>
+                                        <CorkboardSettings/>
+                                    </CorkboardAndOutliner>
                                 </BinderItem>
                             </Children>
                         </BinderItem>
@@ -1656,6 +2034,9 @@
                             <TextSettings>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
+                            <CorkboardAndOutliner>
+                                <CorkboardSettings/>
+                            </CorkboardAndOutliner>
                             <Children>
                                 <BinderItem ID="145" Created="2015-05-02 13:47:44 +0000" Modified="2015-05-02 13:47:44 +0000" Type="Image">
                                     <Title>3a40fc7ebbab4598b83c4f2343b277ad-d4acsef</Title>
@@ -1668,6 +2049,9 @@
                                     <MediaSettings>
                                         <ImageScalesProportionally>Yes</ImageScalesProportionally>
                                     </MediaSettings>
+                                    <CorkboardAndOutliner>
+                                        <CorkboardSettings/>
+                                    </CorkboardAndOutliner>
                                 </BinderItem>
                                 <BinderItem ID="146" Created="2015-05-02 13:48:47 +0000" Modified="2015-05-02 13:48:47 +0000" Type="Image">
                                     <Title>4219250149_5dc7d7652a</Title>
@@ -1680,6 +2064,9 @@
                                     <MediaSettings>
                                         <ImageScalesProportionally>Yes</ImageScalesProportionally>
                                     </MediaSettings>
+                                    <CorkboardAndOutliner>
+                                        <CorkboardSettings/>
+                                    </CorkboardAndOutliner>
                                 </BinderItem>
                                 <BinderItem ID="142" Created="2015-05-17 14:44:16 +0000" Modified="2015-05-17 14:44:16 +0000" Type="Image">
                                     <Title>carruagem rainha elisabete</Title>
@@ -1692,6 +2079,9 @@
                                     <MediaSettings>
                                         <ImageScalesProportionally>Yes</ImageScalesProportionally>
                                     </MediaSettings>
+                                    <CorkboardAndOutliner>
+                                        <CorkboardSettings/>
+                                    </CorkboardAndOutliner>
                                 </BinderItem>
                                 <BinderItem ID="27" Created="2015-05-17 14:43:58 +0000" Modified="2015-05-17 14:43:58 +0000" Type="Image">
                                     <Title>041-CarruagemAntiga</Title>
@@ -1704,6 +2094,9 @@
                                     <MediaSettings>
                                         <ImageScalesProportionally>Yes</ImageScalesProportionally>
                                     </MediaSettings>
+                                    <CorkboardAndOutliner>
+                                        <CorkboardSettings/>
+                                    </CorkboardAndOutliner>
                                 </BinderItem>
                                 <BinderItem ID="148" Created="2015-05-17 09:58:59 +0000" Modified="2015-05-17 09:59:01 +0000" Type="Image">
                                     <Title>zestiria 1</Title>
@@ -1716,6 +2109,9 @@
                                     <MediaSettings>
                                         <ImageScalesProportionally>Yes</ImageScalesProportionally>
                                     </MediaSettings>
+                                    <CorkboardAndOutliner>
+                                        <CorkboardSettings/>
+                                    </CorkboardAndOutliner>
                                 </BinderItem>
                                 <BinderItem ID="149" Created="2015-05-02 14:22:00 +0000" Modified="2015-05-02 14:22:00 +0000" Type="Image">
                                     <Title>Yaag_face</Title>
@@ -1728,6 +2124,9 @@
                                     <MediaSettings>
                                         <ImageScalesProportionally>Yes</ImageScalesProportionally>
                                     </MediaSettings>
+                                    <CorkboardAndOutliner>
+                                        <CorkboardSettings/>
+                                    </CorkboardAndOutliner>
                                 </BinderItem>
                                 <BinderItem ID="150" Created="2014-03-16 15:54:50 +0000" Modified="2010-03-06 17:09:29 +0000" Type="Image">
                                     <Title>FF XIII - Yaag Rosch</Title>
@@ -1740,6 +2139,9 @@
                                     <MediaSettings>
                                         <ImageScalesProportionally>Yes</ImageScalesProportionally>
                                     </MediaSettings>
+                                    <CorkboardAndOutliner>
+                                        <CorkboardSettings/>
+                                    </CorkboardAndOutliner>
                                 </BinderItem>
                             </Children>
                         </BinderItem>
@@ -1752,6 +2154,9 @@
                             <TextSettings>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
+                            <CorkboardAndOutliner>
+                                <CorkboardSettings/>
+                            </CorkboardAndOutliner>
                         </BinderItem>
                     </Children>
                 </BinderItem>
@@ -1766,6 +2171,9 @@
             <TextSettings>
                 <Target Type="Words">0</Target>
             </TextSettings>
+            <CorkboardAndOutliner>
+                <CorkboardSettings/>
+            </CorkboardAndOutliner>
             <Children>
                 <BinderItem ID="9" Created="2011-10-25 07:05:03 +0000" Modified="2011-10-25 07:05:59 +0000" Type="Text">
                     <Title>Character Sketch</Title>
@@ -1781,6 +2189,9 @@
                         <TextSelection>34,34</TextSelection>
                         <Target Type="Words">0</Target>
                     </TextSettings>
+                    <CorkboardAndOutliner>
+                        <CorkboardSettings/>
+                    </CorkboardAndOutliner>
                 </BinderItem>
                 <BinderItem ID="8" Created="2011-10-25 07:05:03 +0000" Modified="2011-10-25 07:05:03 +0000" Type="Text">
                     <Title>Setting Sketch</Title>
@@ -1793,6 +2204,9 @@
                         <TextSelection>36,36</TextSelection>
                         <Target Type="Words">0</Target>
                     </TextSettings>
+                    <CorkboardAndOutliner>
+                        <CorkboardSettings/>
+                    </CorkboardAndOutliner>
                 </BinderItem>
             </Children>
         </BinderItem>
@@ -1802,73 +2216,9 @@
                 <IncludeInCompile>Yes</IncludeInCompile>
                 <NotesTextSelection>0,0</NotesTextSelection>
             </MetaData>
-            <Children>
-                <BinderItem ID="98" Created="2014-11-30 21:45:26 +0000" Modified="2015-07-09 20:59:59 +0000" Type="Text">
-                    <Title>Rodric</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                        <NotesTextSelection>0,0</NotesTextSelection>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>0,332</TextSelection>
-                        <Target Type="Words">0</Target>
-                    </TextSettings>
-                </BinderItem>
-                <BinderItem ID="95" Created="2014-11-30 21:45:16 +0000" Modified="2015-07-09 20:58:05 +0000" Type="Text">
-                    <Title>Rikheart</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                        <NotesTextSelection>0,0</NotesTextSelection>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>179,179</TextSelection>
-                        <Target Type="Words">0</Target>
-                    </TextSettings>
-                </BinderItem>
-                <BinderItem ID="97" Created="2014-11-30 21:45:24 +0000" Modified="2015-06-29 18:21:54 +0000" Type="Text">
-                    <Title>Dinari</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                        <NotesTextSelection>0,0</NotesTextSelection>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>548,548</TextSelection>
-                        <Target Type="Words">0</Target>
-                    </TextSettings>
-                </BinderItem>
-                <BinderItem ID="112" Created="2014-12-24 18:37:45 +0000" Modified="2015-07-09 20:54:14 +0000" Type="Text">
-                    <Title>Elly</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                        <NotesTextSelection>0,0</NotesTextSelection>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>0,162</TextSelection>
-                        <Target Type="Words">0</Target>
-                    </TextSettings>
-                </BinderItem>
-                <BinderItem ID="154" Created="2015-05-30 14:59:08 +0000" Modified="2015-06-29 18:25:22 +0000" Type="Text">
-                    <Title>Icarian</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                        <NotesTextSelection>0,0</NotesTextSelection>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>0,912</TextSelection>
-                        <Target Type="Words">0</Target>
-                    </TextSettings>
-                </BinderItem>
-                <BinderItem ID="94" Created="2014-11-30 21:45:06 +0000" Modified="2014-11-30 21:45:11 +0000" Type="Folder">
-                    <Title>Personagens (Desc)</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                        <NotesTextSelection>0,0</NotesTextSelection>
-                    </MetaData>
-                    <TextSettings>
-                        <Target Type="Words">0</Target>
-                    </TextSettings>
-                </BinderItem>
-            </Children>
+            <CorkboardAndOutliner>
+                <CorkboardSettings/>
+            </CorkboardAndOutliner>
         </BinderItem>
     </Binder>
     <Collections>
@@ -1908,7 +2258,7 @@
     <ProjectProperties/>
     <ProjectTargets>
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes">50000</DraftTarget>
-        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetDaily="No" DeterminedFromDeadline="No" WritingDays="">0</SessionTarget>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="Never" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
     </ProjectTargets>
     <PrintSettings PaperType="A4" LeftMargin="72.0001" RightMargin="72.0001" TopMargin="72.0001" BottomMargin="72.0001" Orientation="Portrait" Collates="No" ReverseOrder="No"/>
 </ScrivenerProject>
